@@ -1,0 +1,30 @@
+{
+    "CODE": 200,
+    "STATUS": "SUCCESS",
+    "MESSAGE": "",
+    "TOTAL_RECORDS": 1,
+    "RESPONSE": [
+        {
+            "UNIQUE_QUERY_ID": "2348433115",
+            "QUERY_TYPE": "W",
+            "QUERY_TIME": "2023-01-23 13:03:16",
+            "SENDER_NAME": "Akshay",
+            "SENDER_MOBILE": "+91-9916674553",
+            "SENDER_EMAIL": "achunivi143@gmail.com",
+            "SUBJECT": "Requirement for Starters",
+            "SENDER_COMPANY": "",
+            "SENDER_ADDRESS": "Mysuru, Karnataka,         571125",
+            "SENDER_CITY": "Mysuru",
+            "SENDER_STATE": "Karnataka",
+            "SENDER_COUNTRY_ISO": "IN",
+            "SENDER_MOBILE_ALT": "",
+            "SENDER_PHONE": "",
+            "SENDER_PHONE_ALT": "",
+            "SENDER_EMAIL_ALT": "",
+            "QUERY_PRODUCT_NAME": "Starters",
+            "QUERY_MESSAGE": "I am interested in buying Starters. Kindly send me price and other details.<br> Quantity :   2<br> Quantity Unit :   piece<br> Probable Order Value :   Rs. 3,000 to 10,000<br> Why do you need this :   For Personal Use<br>",
+            "CALL_DURATION": "",
+            "RECEIVER_MOBILE": ""
+        }
+    ]
+}

@@ -1,0 +1,155 @@
+
+21:8:50 :	:, ismultitenant:True
+21:9:19 :	:, select distinct module_moduleid,module_modulename,module_tablename
+                    from  [RPlusCRM_Master_V8].dbo.tbl_columns c
+                    left join  [RPlusCRM_Master_V8].dbo.tbl_columns smc on smc.columns_columnsid= c.columns_submoduleid
+                    join  [RPlusCRM_Master_V8].dbo.tbl_module m on m.module_moduleid=c.columns_moduleid
+                    left join INFORMATION_SCHEMA.COLUMNS s on s.COLUMN_NAME=c.columns_columnname
+                    where 
+                    (
+	                    s.COLUMN_NAME is null 
+	                    OR
+	                    (c.columns_submoduleid = 0 AND s.TABLE_NAME = m.module_tablename)
+	                    OR
+	                    (s.TABLE_NAME = 'tbl_' + SUBSTRING(smc.columns_columnname, charindex('_', smc.columns_columnname) + 1, 
+					                    len(smc.columns_columnname)-charindex('_', smc.columns_columnname))
+	                    )
+                    ) and 
+
+                    c.columns_control in('Text Box','Color Picker','Auto Complete','Email Id','Mobile No','Phone No',
+                    'Amount','Number','Date','Date Time','Multi Line','Html Editor','Dropdown','Checkbox',
+                    'Multi Checkbox','Multi Checkbox JS','File Upload','Multi Auto Complete')
+                    and (s.COLUMN_NAME is null or 
+                    (
+	                    c.columns_control in('Text Box','Email Id','Mobile No','Phone No','Multi Line','Html Editor',
+	                    'Multi Checkbox','Multi Checkbox JS','File Upload','Multi Auto Complete')
+	                    and s.CHARACTER_MAXIMUM_LENGTH <> -1 and (c.columns_size = -1 OR c.columns_size > s.CHARACTER_MAXIMUM_LENGTH)
+                    )
+                    )
+21:9:35 :	:, ismultitenant:True
+21:9:44 :	:, select distinct module_moduleid,module_modulename,module_tablename
+                    from  [RPlusCRM_Master_V8].dbo.tbl_columns c
+                    left join  [RPlusCRM_Master_V8].dbo.tbl_columns smc on smc.columns_columnsid= c.columns_submoduleid
+                    join  [RPlusCRM_Master_V8].dbo.tbl_module m on m.module_moduleid=c.columns_moduleid
+                    left join INFORMATION_SCHEMA.COLUMNS s on s.COLUMN_NAME=c.columns_columnname
+                    where 
+                    (
+	                    s.COLUMN_NAME is null 
+	                    OR
+	                    (c.columns_submoduleid = 0 AND s.TABLE_NAME = m.module_tablename)
+	                    OR
+	                    (s.TABLE_NAME = 'tbl_' + SUBSTRING(smc.columns_columnname, charindex('_', smc.columns_columnname) + 1, 
+					                    len(smc.columns_columnname)-charindex('_', smc.columns_columnname))
+	                    )
+                    ) and 
+
+                    c.columns_control in('Text Box','Color Picker','Auto Complete','Email Id','Mobile No','Phone No',
+                    'Amount','Number','Date','Date Time','Multi Line','Html Editor','Dropdown','Checkbox',
+                    'Multi Checkbox','Multi Checkbox JS','File Upload','Multi Auto Complete')
+                    and (s.COLUMN_NAME is null or 
+                    (
+	                    c.columns_control in('Text Box','Email Id','Mobile No','Phone No','Multi Line','Html Editor',
+	                    'Multi Checkbox','Multi Checkbox JS','File Upload','Multi Auto Complete')
+	                    and s.CHARACTER_MAXIMUM_LENGTH <> -1 and (c.columns_size = -1 OR c.columns_size > s.CHARACTER_MAXIMUM_LENGTH)
+                    )
+                    )
+21:11:17 :	:, ismultitenant:True
+21:11:17 :	:, select distinct module_moduleid,module_modulename,module_tablename
+                    from  [RPlusCRM_Master_V8].dbo.tbl_columns c
+                    left join  [RPlusCRM_Master_V8].dbo.tbl_columns smc on smc.columns_columnsid= c.columns_submoduleid
+                    join  [RPlusCRM_Master_V8].dbo.tbl_module m on m.module_moduleid=c.columns_moduleid
+                    left join INFORMATION_SCHEMA.COLUMNS s on s.COLUMN_NAME=c.columns_columnname
+                    where 
+                    (
+	                    s.COLUMN_NAME is null 
+	                    OR
+	                    (c.columns_submoduleid = 0 AND s.TABLE_NAME = m.module_tablename)
+	                    OR
+	                    (s.TABLE_NAME = 'tbl_' + SUBSTRING(smc.columns_columnname, charindex('_', smc.columns_columnname) + 1, 
+					                    len(smc.columns_columnname)-charindex('_', smc.columns_columnname))
+	                    )
+                    ) and 
+
+                    c.columns_control in('Text Box','Color Picker','Auto Complete','Email Id','Mobile No','Phone No',
+                    'Amount','Number','Date','Date Time','Multi Line','Html Editor','Dropdown','Checkbox',
+                    'Multi Checkbox','Multi Checkbox JS','File Upload','Multi Auto Complete')
+                    and (s.COLUMN_NAME is null or 
+                    (
+	                    c.columns_control in('Text Box','Email Id','Mobile No','Phone No','Multi Line','Html Editor',
+	                    'Multi Checkbox','Multi Checkbox JS','File Upload','Multi Auto Complete')
+	                    and s.CHARACTER_MAXIMUM_LENGTH <> -1 and (c.columns_size = -1 OR c.columns_size > s.CHARACTER_MAXIMUM_LENGTH)
+                    )
+                    )
+21:15:24 :	:, ismultitenant:True
+21:15:25 :	:, select distinct module_moduleid,module_modulename,module_tablename
+                    from  [RPlusCRM_Master_V8].dbo.tbl_columns c
+                    left join  [RPlusCRM_Master_V8].dbo.tbl_columns smc on smc.columns_columnsid= c.columns_submoduleid
+                    join  [RPlusCRM_Master_V8].dbo.tbl_module m on m.module_moduleid=c.columns_moduleid
+                    left join INFORMATION_SCHEMA.COLUMNS s on s.COLUMN_NAME=c.columns_columnname
+                    where 
+                    (
+	                    s.COLUMN_NAME is null 
+	                    OR
+	                    (c.columns_submoduleid = 0 AND s.TABLE_NAME = m.module_tablename)
+	                    OR
+	                    (s.TABLE_NAME = 'tbl_' + SUBSTRING(smc.columns_columnname, charindex('_', smc.columns_columnname) + 1, 
+					                    len(smc.columns_columnname)-charindex('_', smc.columns_columnname))
+	                    )
+                    ) and 
+
+                    c.columns_control in('Text Box','Color Picker','Auto Complete','Email Id','Mobile No','Phone No',
+                    'Amount','Number','Date','Date Time','Multi Line','Html Editor','Dropdown','Checkbox',
+                    'Multi Checkbox','Multi Checkbox JS','File Upload','Multi Auto Complete')
+                    and (s.COLUMN_NAME is null or 
+                    (
+	                    c.columns_control in('Text Box','Email Id','Mobile No','Phone No','Multi Line','Html Editor',
+	                    'Multi Checkbox','Multi Checkbox JS','File Upload','Multi Auto Complete')
+	                    and s.CHARACTER_MAXIMUM_LENGTH <> -1 and (c.columns_size = -1 OR c.columns_size > s.CHARACTER_MAXIMUM_LENGTH)
+                    )
+                    )
+21:18:29 :	:, ismultitenant:True
+21:18:29 :	:, select distinct module_moduleid,module_modulename,module_tablename
+                    from tbl_columns c
+                    left join tbl_columns smc on smc.columns_columnsid= c.columns_submoduleid
+                    join tbl_module m on m.module_moduleid=c.columns_moduleid
+                    left join INFORMATION_SCHEMA.COLUMNS s on s.COLUMN_NAME=c.columns_columnname
+                    where 
+                    (
+	                    s.COLUMN_NAME is null 
+	                    OR
+	                    (c.columns_submoduleid = 0 AND s.TABLE_NAME = m.module_tablename)
+	                    OR
+	                    (s.TABLE_NAME = 'tbl_' + SUBSTRING(smc.columns_columnname, charindex('_', smc.columns_columnname) + 1, 
+					                    len(smc.columns_columnname)-charindex('_', smc.columns_columnname))
+	                    )
+                    ) and 
+
+                    c.columns_control in('Text Box','Color Picker','Auto Complete','Email Id','Mobile No','Phone No',
+                    'Amount','Number','Date','Date Time','Multi Line','Html Editor','Dropdown','Checkbox',
+                    'Multi Checkbox','Multi Checkbox JS','File Upload','Multi Auto Complete')
+                    and (s.COLUMN_NAME is null or 
+                    (
+	                    c.columns_control in('Text Box','Email Id','Mobile No','Phone No','Multi Line','Html Editor',
+	                    'Multi Checkbox','Multi Checkbox JS','File Upload','Multi Auto Complete')
+	                    and s.CHARACTER_MAXIMUM_LENGTH <> -1 and (c.columns_size = -1 OR c.columns_size > s.CHARACTER_MAXIMUM_LENGTH)
+                    )
+                    )
+21:18:29 :	:, creating table for tbl_exportdataconfigcolumns
+21:18:29 :	:, CheckAndCreateTable:CREATE TABLE dbo.tbl_exportdataconfigcolumns(exportdataconfigcolumns_exportdataconfigcolumnsid INT IDENTITY(1,1) primary key)
+
+21:18:29 :	:, GetColumns:select * from tbl_columns where isnull(columns_isparenttable,0)=0 
+                            and columns_moduleid=564 order by columns_subsectionid,columns_sequence;child;True
+21:18:29 :	:, select COLUMN_NAME,CHARACTER_MAXIMUM_LENGTH,DATA_TYPE from INFORMATION_SCHEMA.COLUMNS where table_name='tbl_exportdataconfigcolumns'
+
+21:18:29 :	:, dttblColumns.Rows.Count=3
+21:18:29 :	:, exportdataconfigcolumns_moduleid
+
+21:18:29 :	:, script: ALTER TABLE tbl_exportdataconfigcolumns ADD exportdataconfigcolumns_moduleid INT NULL
+
+21:18:40 :	:, exportdataconfigcolumns_userid
+
+21:18:40 :	:, script: ALTER TABLE tbl_exportdataconfigcolumns ADD exportdataconfigcolumns_userid INT NULL
+
+21:18:42 :	:, exportdataconfigcolumns_columnids
+
+21:18:42 :	:, script: ALTER TABLE tbl_exportdataconfigcolumns ADD exportdataconfigcolumns_columnids VARCHAR(MAX) NULL

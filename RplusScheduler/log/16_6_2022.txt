@@ -1,0 +1,17 @@
+
+21:35:35 : IndiaMartAPI Started
+21:35:48 : IndiaMartAPI Completed
+21:37:18 : IndiaMartAPI Started
+21:38:19 : IndiaMartAPI Started
+21:39:41 : IndiaMartAPI Completed
+21:39:58 : IndiaMartAPI Started
+21:47:59 : IndiaMartAPI Started
+21:50:33 : IndiaMartAPI Started
+21:50:46 : IndiaMartAPI Started
+21:50:52 : IndiaMartAPI Completed
+21:55:11 : IndiaMartAPI Started
+21:55:11 : IndiaMartError:
+Invalid URI: The URI is empty.
+21:55:19 : IndiaMartAPI Started
+21:58:41 : IndiaMartAPI Started
+21:59:38 : IndiaMartAPI Started

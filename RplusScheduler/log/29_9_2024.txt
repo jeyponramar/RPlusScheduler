@@ -1,0 +1,534 @@
+
+8:13:25 : Temp folder cleanup started
+8:13:25 : Temp folder cleanup completed
+8:13:25 : Scheduler Completed
+8:13:41 : Temp folder cleanup started
+8:14:3 : Temp folder cleanup started
+8:19:44 : Temp folder cleanup started
+8:19:47 : Temp folder cleanup completed
+8:19:57 : Temp folder cleanup started
+8:20:31 : Temp folder cleanup started
+8:20:42 : Folder cleanup started for : g:/ram/projects/websites/aeaircon_v8/temp/rplusbackup_21-1-2018
+8:20:47 : Folder cleanup completed for : g:/ram/projects/websites/aeaircon_v8/temp/rplusbackup_21-1-2018
+8:20:47 : Folder cleanup started for : g:/ram/projects/websites/aeaircon_v8/temp/rplusbackup_21-11-2017
+8:20:47 : Folder cleanup completed for : g:/ram/projects/websites/aeaircon_v8/temp/rplusbackup_21-11-2017
+8:20:47 : Folder cleanup started for : g:/ram/projects/websites/amc_crystaldiagnovision/temp/rplusbackup_1-2-2017
+8:20:47 : Folder cleanup completed for : g:/ram/projects/websites/amc_crystaldiagnovision/temp/rplusbackup_1-2-2017
+8:20:47 : Folder cleanup started for : g:/ram/projects/websites/amc_crystaldiagnovision/temp/rplusbackup_10-11-2016
+8:20:47 : Folder cleanup completed for : g:/ram/projects/websites/amc_crystaldiagnovision/temp/rplusbackup_10-11-2016
+8:20:47 : Folder cleanup started for : g:/ram/projects/websites/amc_crystaldiagnovision/temp/rplusbackup_11-11-2016
+8:20:47 : Folder cleanup completed for : g:/ram/projects/websites/amc_crystaldiagnovision/temp/rplusbackup_11-11-2016
+8:20:47 : Folder cleanup started for : g:/ram/projects/websites/amc_crystaldiagnovision/temp/rplusbackup_2-2-2017
+8:20:47 : Folder cleanup completed for : g:/ram/projects/websites/amc_crystaldiagnovision/temp/rplusbackup_2-2-2017
+8:20:47 : Folder cleanup started for : g:/ram/projects/websites/amc_crystaldiagnovision/temp/rplusbackup_2-3-2017
+8:20:47 : Folder cleanup completed for : g:/ram/projects/websites/amc_crystaldiagnovision/temp/rplusbackup_2-3-2017
+8:20:47 : Folder cleanup started for : g:/ram/projects/websites/amc_crystaldiagnovision/temp/rplusbackup_27-2-2017
+8:20:47 : Folder cleanup completed for : g:/ram/projects/websites/amc_crystaldiagnovision/temp/rplusbackup_27-2-2017
+8:20:47 : Folder cleanup started for : g:/ram/projects/websites/amc_crystaldiagnovision/temp/rplusbackup_28-10-2016
+8:20:47 : Folder cleanup completed for : g:/ram/projects/websites/amc_crystaldiagnovision/temp/rplusbackup_28-10-2016
+8:20:47 : Folder cleanup started for : g:/ram/projects/websites/amc_crystaldiagnovision/temp/rplusbackup_3-3-2017
+8:20:47 : Folder cleanup completed for : g:/ram/projects/websites/amc_crystaldiagnovision/temp/rplusbackup_3-3-2017
+8:20:47 : Folder cleanup started for : g:/ram/projects/websites/amc_crystaldiagnovision/temp/rplusbackup_30-1-2017
+8:20:47 : Folder cleanup completed for : g:/ram/projects/websites/amc_crystaldiagnovision/temp/rplusbackup_30-1-2017
+8:20:47 : Folder cleanup started for : g:/ram/projects/websites/amc_crystaldiagnovision/temp/rplusbackup_31-1-2017
+8:20:47 : Folder cleanup completed for : g:/ram/projects/websites/amc_crystaldiagnovision/temp/rplusbackup_31-1-2017
+8:20:47 : Folder cleanup started for : g:/ram/projects/websites/amc_crystaldiagnovision/temp/rplusbackup_5-2-2018
+8:20:47 : Folder cleanup completed for : g:/ram/projects/websites/amc_crystaldiagnovision/temp/rplusbackup_5-2-2018
+8:20:47 : Folder cleanup started for : g:/ram/projects/websites/amc_crystaldiagnovision/temp/rplusbackup_6-2-2017
+8:20:47 : Folder cleanup completed for : g:/ram/projects/websites/amc_crystaldiagnovision/temp/rplusbackup_6-2-2017
+8:20:47 : Folder cleanup started for : g:/ram/projects/websites/amc_crystaldiagnovision/temp/rplusbackup_8-11-2016
+8:20:47 : Folder cleanup completed for : g:/ram/projects/websites/amc_crystaldiagnovision/temp/rplusbackup_8-11-2016
+8:20:47 : Folder cleanup started for : g:/ram/projects/websites/amc_crystaldiagnovision/temp/rplusbackup_9-1-2018
+8:20:47 : Folder cleanup completed for : g:/ram/projects/websites/amc_crystaldiagnovision/temp/rplusbackup_9-1-2018
+8:20:47 : Folder cleanup started for : g:/ram/projects/websites/amc_smartinfocom/temp/rplusbackup_1-10-2016
+8:20:47 : Folder cleanup completed for : g:/ram/projects/websites/amc_smartinfocom/temp/rplusbackup_1-10-2016
+8:20:47 : Folder cleanup started for : g:/ram/projects/websites/amc_smartinfocom/temp/rplusbackup_10-2-2017
+8:20:47 : Folder cleanup completed for : g:/ram/projects/websites/amc_smartinfocom/temp/rplusbackup_10-2-2017
+8:20:47 : Folder cleanup started for : g:/ram/projects/websites/amc_smartinfocom/temp/rplusbackup_11-11-2016
+8:20:47 : Folder cleanup completed for : g:/ram/projects/websites/amc_smartinfocom/temp/rplusbackup_11-11-2016
+8:20:47 : Folder cleanup started for : g:/ram/projects/websites/amc_smartinfocom/temp/rplusbackup_12-11-2016
+8:20:47 : Folder cleanup completed for : g:/ram/projects/websites/amc_smartinfocom/temp/rplusbackup_12-11-2016
+8:20:47 : Folder cleanup started for : g:/ram/projects/websites/amc_smartinfocom/temp/rplusbackup_15-10-2016
+8:20:47 : Folder cleanup completed for : g:/ram/projects/websites/amc_smartinfocom/temp/rplusbackup_15-10-2016
+8:20:47 : Folder cleanup started for : g:/ram/projects/websites/amc_smartinfocom/temp/rplusbackup_22-10-2016
+8:20:47 : Folder cleanup completed for : g:/ram/projects/websites/amc_smartinfocom/temp/rplusbackup_22-10-2016
+8:20:47 : Folder cleanup started for : g:/ram/projects/websites/amc_smartinfocom/temp/rplusbackup_24-12-2016
+8:20:47 : Folder cleanup completed for : g:/ram/projects/websites/amc_smartinfocom/temp/rplusbackup_24-12-2016
+8:20:47 : Folder cleanup started for : g:/ram/projects/websites/amc_smartinfocom/temp/rplusbackup_27-2-2017
+8:20:47 : Folder cleanup completed for : g:/ram/projects/websites/amc_smartinfocom/temp/rplusbackup_27-2-2017
+8:20:47 : Folder cleanup started for : g:/ram/projects/websites/amc_smartinfocom/temp/rplusbackup_28-12-2016
+8:20:47 : Folder cleanup completed for : g:/ram/projects/websites/amc_smartinfocom/temp/rplusbackup_28-12-2016
+8:20:47 : Folder cleanup started for : g:/ram/projects/websites/amc_smartinfocom/temp/rplusbackup_29-12-2016
+8:20:47 : Folder cleanup completed for : g:/ram/projects/websites/amc_smartinfocom/temp/rplusbackup_29-12-2016
+8:20:47 : Folder cleanup started for : g:/ram/projects/websites/amc_smartinfocom/temp/rplusbackup_29-9-2016
+8:20:47 : Folder cleanup completed for : g:/ram/projects/websites/amc_smartinfocom/temp/rplusbackup_29-9-2016
+8:20:47 : Folder cleanup started for : g:/ram/projects/websites/amc_smartinfocom/temp/rplusbackup_8-11-2016
+8:20:47 : Folder cleanup completed for : g:/ram/projects/websites/amc_smartinfocom/temp/rplusbackup_8-11-2016
+8:20:47 : Folder cleanup started for : g:/ram/projects/websites/amc_smartinfocom/temp/rplusbackup_9-5-2017
+8:20:47 : Folder cleanup completed for : g:/ram/projects/websites/amc_smartinfocom/temp/rplusbackup_9-5-2017
+8:20:47 : Folder cleanup started for : g:/ram/projects/websites/amc_smartinfocom/upload/email/temp/4d65c4fa-5190-4b47-b408-5f69c551672d
+8:20:47 : Folder cleanup completed for : g:/ram/projects/websites/amc_smartinfocom/upload/email/temp/4d65c4fa-5190-4b47-b408-5f69c551672d
+8:20:47 : Folder cleanup started for : g:/ram/projects/websites/amc_smartinfocom/upload/email/temp/c3922ec0-a38c-4bbe-b003-f407e9ce672c
+8:20:47 : Folder cleanup completed for : g:/ram/projects/websites/amc_smartinfocom/upload/email/temp/c3922ec0-a38c-4bbe-b003-f407e9ce672c
+8:20:47 : Folder cleanup started for : g:/ram/projects/websites/asiansportsandfitness_v8/temp/rplusbackup_21-1-2018
+8:20:47 : Folder cleanup completed for : g:/ram/projects/websites/asiansportsandfitness_v8/temp/rplusbackup_21-1-2018
+8:20:47 : Folder cleanup started for : g:/ram/projects/websites/asiansportsandfitness_v8/temp/rplusbackup_21-11-2017
+8:20:47 : Folder cleanup completed for : g:/ram/projects/websites/asiansportsandfitness_v8/temp/rplusbackup_21-11-2017
+8:20:48 : Folder cleanup started for : g:/ram/projects/websites/backup/crm_rpluserp_v9_2_3_24/temp/rplusbackup_1-3-2024
+8:20:48 : Folder cleanup completed for : g:/ram/projects/websites/backup/crm_rpluserp_v9_2_3_24/temp/rplusbackup_1-3-2024
+8:20:48 : Folder cleanup started for : g:/ram/projects/websites/backup/crm_rpluserp_v9_2_3_24/temp/rplusbackup_2-3-2024
+8:20:48 : Folder cleanup completed for : g:/ram/projects/websites/backup/crm_rpluserp_v9_2_3_24/temp/rplusbackup_2-3-2024
+8:20:48 : Folder cleanup started for : g:/ram/projects/websites/backup/crm_rpluserp_v9_2_3_24/temp/rplusbackup_29-2-2024
+8:20:48 : Folder cleanup completed for : g:/ram/projects/websites/backup/crm_rpluserp_v9_2_3_24/temp/rplusbackup_29-2-2024
+8:20:48 : Folder cleanup started for : g:/ram/projects/websites/backup/crm_rpluserp_v9_2_7_24/temp/rplusbackup_1-3-2024
+8:20:48 : Folder cleanup completed for : g:/ram/projects/websites/backup/crm_rpluserp_v9_2_7_24/temp/rplusbackup_1-3-2024
+8:20:48 : Folder cleanup started for : g:/ram/projects/websites/backup/crm_rpluserp_v9_2_7_24/temp/rplusbackup_10-5-2024
+8:20:48 : Folder cleanup completed for : g:/ram/projects/websites/backup/crm_rpluserp_v9_2_7_24/temp/rplusbackup_10-5-2024
+8:20:48 : Folder cleanup started for : g:/ram/projects/websites/backup/crm_rpluserp_v9_2_7_24/temp/rplusbackup_19-3-2024
+8:20:48 : Folder cleanup completed for : g:/ram/projects/websites/backup/crm_rpluserp_v9_2_7_24/temp/rplusbackup_19-3-2024
+8:20:48 : Folder cleanup started for : g:/ram/projects/websites/backup/crm_rpluserp_v9_2_7_24/temp/rplusbackup_2-3-2024
+8:20:48 : Folder cleanup completed for : g:/ram/projects/websites/backup/crm_rpluserp_v9_2_7_24/temp/rplusbackup_2-3-2024
+8:20:48 : Folder cleanup started for : g:/ram/projects/websites/backup/crm_rpluserp_v9_2_7_24/temp/rplusbackup_29-2-2024
+8:20:48 : Folder cleanup completed for : g:/ram/projects/websites/backup/crm_rpluserp_v9_2_7_24/temp/rplusbackup_29-2-2024
+8:20:48 : Folder cleanup started for : g:/ram/projects/websites/backup/rpluscrm_website_17_4_24/temp/4b6ebe19-9295-4809-bfbd-9d58d4edf4a0
+8:20:48 : Folder cleanup completed for : g:/ram/projects/websites/backup/rpluscrm_website_17_4_24/temp/4b6ebe19-9295-4809-bfbd-9d58d4edf4a0
+8:20:48 : Folder cleanup started for : g:/ram/projects/websites/backup/rpluscrm_website_17_4_24/temp/5ca00717-23da-4177-8370-4a345baea1bf
+8:20:48 : Folder cleanup completed for : g:/ram/projects/websites/backup/rpluscrm_website_17_4_24/temp/5ca00717-23da-4177-8370-4a345baea1bf
+8:20:48 : Folder cleanup started for : g:/ram/projects/websites/backup/rpluscrm_website_17_4_24/temp/774c8d0c-ed33-4232-9acd-02ddbe83959d
+8:20:48 : Folder cleanup completed for : g:/ram/projects/websites/backup/rpluscrm_website_17_4_24/temp/774c8d0c-ed33-4232-9acd-02ddbe83959d
+8:20:48 : Folder cleanup started for : g:/ram/projects/websites/backup/rpluscrm_website_17_4_24/temp/86219269-f3d7-436c-a5cf-1426e65527e3
+8:20:48 : Folder cleanup completed for : g:/ram/projects/websites/backup/rpluscrm_website_17_4_24/temp/86219269-f3d7-436c-a5cf-1426e65527e3
+8:20:48 : Folder cleanup started for : g:/ram/projects/websites/backup/rpluscrm_website_17_4_24/temp/9224294e-03db-467e-8e2a-301c647ded17
+8:20:48 : Folder cleanup completed for : g:/ram/projects/websites/backup/rpluscrm_website_17_4_24/temp/9224294e-03db-467e-8e2a-301c647ded17
+8:20:48 : Folder cleanup started for : g:/ram/projects/websites/backup/rpluscrm_website_17_4_24/temp/abc48067-b704-4d04-aa6f-96932ab47ddb
+8:20:48 : Folder cleanup completed for : g:/ram/projects/websites/backup/rpluscrm_website_17_4_24/temp/abc48067-b704-4d04-aa6f-96932ab47ddb
+8:20:48 : Folder cleanup started for : g:/ram/projects/websites/backup/rpluscrm_website_17_4_24/temp/b1cd69f2-7e49-4ba7-9c09-93d290a04d77
+8:20:48 : Folder cleanup completed for : g:/ram/projects/websites/backup/rpluscrm_website_17_4_24/temp/b1cd69f2-7e49-4ba7-9c09-93d290a04d77
+8:20:48 : Folder cleanup started for : g:/ram/projects/websites/backup/rpluscrm_website_17_4_24/temp/d3b7fa0e-7f0c-4a84-834f-6ca6015c16b9
+8:20:48 : Folder cleanup completed for : g:/ram/projects/websites/backup/rpluscrm_website_17_4_24/temp/d3b7fa0e-7f0c-4a84-834f-6ca6015c16b9
+8:20:48 : Folder cleanup started for : g:/ram/projects/websites/backup/rpluscrm_website_17_4_24/temp/d8b6273a-e22f-4e31-993d-cf5c95c79141
+8:20:48 : Folder cleanup completed for : g:/ram/projects/websites/backup/rpluscrm_website_17_4_24/temp/d8b6273a-e22f-4e31-993d-cf5c95c79141
+8:20:48 : Folder cleanup started for : g:/ram/projects/websites/crm_rpluserp_v8/temp/rplusbackup_1-11-2023
+8:20:48 : Folder cleanup completed for : g:/ram/projects/websites/crm_rpluserp_v8/temp/rplusbackup_1-11-2023
+8:20:48 : Folder cleanup started for : g:/ram/projects/websites/crm_rpluserp_v8/temp/rplusbackup_14-12-2023
+8:20:48 : Folder cleanup completed for : g:/ram/projects/websites/crm_rpluserp_v8/temp/rplusbackup_14-12-2023
+8:20:48 : Folder cleanup started for : g:/ram/projects/websites/crm_rpluserp_v8/temp/rplusbackup_19-4-2024
+8:20:48 : Folder cleanup completed for : g:/ram/projects/websites/crm_rpluserp_v8/temp/rplusbackup_19-4-2024
+8:20:48 : Folder cleanup started for : g:/ram/projects/websites/crm_rpluserp_v8/temp/rplusbackup_3-11-2023
+8:20:48 : Folder cleanup completed for : g:/ram/projects/websites/crm_rpluserp_v8/temp/rplusbackup_3-11-2023
+8:20:48 : Folder cleanup started for : g:/ram/projects/websites/crm_rpluserp_v8/temp/rplusbackup_31-10-2023
+8:20:48 : Folder cleanup completed for : g:/ram/projects/websites/crm_rpluserp_v8/temp/rplusbackup_31-10-2023
+8:20:48 : Folder cleanup started for : g:/ram/projects/websites/crm_rpluserp_v9/upload/dmans/temp/pdf
+8:20:48 : Folder cleanup completed for : g:/ram/projects/websites/crm_rpluserp_v9/upload/dmans/temp/pdf
+8:20:48 : Folder cleanup started for : g:/ram/projects/websites/crm_rpluserp_v9/upload/temp/pdf
+8:20:48 : Folder cleanup completed for : g:/ram/projects/websites/crm_rpluserp_v9/upload/temp/pdf
+8:20:48 : Folder cleanup started for : g:/ram/projects/websites/crm_rpluserp_v9 - copy/temp/rplusbackup_1-3-2024
+8:20:48 : Folder cleanup completed for : g:/ram/projects/websites/crm_rpluserp_v9 - copy/temp/rplusbackup_1-3-2024
+8:20:48 : Folder cleanup started for : g:/ram/projects/websites/crm_rpluserp_v9 - copy/temp/rplusbackup_19-3-2024
+8:20:48 : Folder cleanup completed for : g:/ram/projects/websites/crm_rpluserp_v9 - copy/temp/rplusbackup_19-3-2024
+8:20:48 : Folder cleanup started for : g:/ram/projects/websites/crm_rpluserp_v9 - copy/temp/rplusbackup_2-3-2024
+8:20:48 : Folder cleanup completed for : g:/ram/projects/websites/crm_rpluserp_v9 - copy/temp/rplusbackup_2-3-2024
+8:20:48 : Folder cleanup started for : g:/ram/projects/websites/crm_rpluserp_v9 - copy/temp/rplusbackup_29-2-2024
+8:20:48 : Folder cleanup completed for : g:/ram/projects/websites/crm_rpluserp_v9 - copy/temp/rplusbackup_29-2-2024
+8:20:48 : Folder cleanup started for : g:/ram/projects/websites/crm_rpluserp_v9 - copy/upload/temp/pdf
+8:20:48 : Folder cleanup completed for : g:/ram/projects/websites/crm_rpluserp_v9 - copy/upload/temp/pdf
+8:20:48 : Folder cleanup started for : g:/ram/projects/websites/crm_rpluserp_v9_2_7_24/temp/rplusbackup_1-3-2024
+8:20:48 : Folder cleanup completed for : g:/ram/projects/websites/crm_rpluserp_v9_2_7_24/temp/rplusbackup_1-3-2024
+8:20:48 : Folder cleanup started for : g:/ram/projects/websites/crm_rpluserp_v9_2_7_24/temp/rplusbackup_10-5-2024
+8:20:48 : Folder cleanup completed for : g:/ram/projects/websites/crm_rpluserp_v9_2_7_24/temp/rplusbackup_10-5-2024
+8:20:48 : Folder cleanup started for : g:/ram/projects/websites/crm_rpluserp_v9_2_7_24/temp/rplusbackup_19-3-2024
+8:20:48 : Folder cleanup completed for : g:/ram/projects/websites/crm_rpluserp_v9_2_7_24/temp/rplusbackup_19-3-2024
+8:20:48 : Folder cleanup started for : g:/ram/projects/websites/crm_rpluserp_v9_2_7_24/temp/rplusbackup_2-3-2024
+8:20:48 : Folder cleanup completed for : g:/ram/projects/websites/crm_rpluserp_v9_2_7_24/temp/rplusbackup_2-3-2024
+8:20:48 : Folder cleanup started for : g:/ram/projects/websites/crm_rpluserp_v9_2_7_24/temp/rplusbackup_29-2-2024
+8:20:48 : Folder cleanup completed for : g:/ram/projects/websites/crm_rpluserp_v9_2_7_24/temp/rplusbackup_29-2-2024
+8:20:48 : Folder cleanup started for : g:/ram/projects/websites/crm_rpluserp_v9_old/temp/rplusbackup_1-3-2024
+8:20:48 : Folder cleanup completed for : g:/ram/projects/websites/crm_rpluserp_v9_old/temp/rplusbackup_1-3-2024
+8:20:48 : Folder cleanup started for : g:/ram/projects/websites/crm_rpluserp_v9_old/temp/rplusbackup_10-5-2024
+8:20:48 : Folder cleanup completed for : g:/ram/projects/websites/crm_rpluserp_v9_old/temp/rplusbackup_10-5-2024
+8:20:48 : Folder cleanup started for : g:/ram/projects/websites/crm_rpluserp_v9_old/temp/rplusbackup_19-3-2024
+8:20:48 : Folder cleanup completed for : g:/ram/projects/websites/crm_rpluserp_v9_old/temp/rplusbackup_19-3-2024
+8:20:48 : Folder cleanup started for : g:/ram/projects/websites/crm_rpluserp_v9_old/temp/rplusbackup_2-3-2024
+8:20:48 : Folder cleanup completed for : g:/ram/projects/websites/crm_rpluserp_v9_old/temp/rplusbackup_2-3-2024
+8:20:48 : Folder cleanup started for : g:/ram/projects/websites/crm_rpluserp_v9_old/temp/rplusbackup_29-2-2024
+8:20:48 : Folder cleanup completed for : g:/ram/projects/websites/crm_rpluserp_v9_old/temp/rplusbackup_29-2-2024
+8:20:48 : Folder cleanup started for : g:/ram/projects/websites/paramountsystems.rpluscrm.com/temp/rplusbackup_10-11-2016
+8:20:48 : Folder cleanup completed for : g:/ram/projects/websites/paramountsystems.rpluscrm.com/temp/rplusbackup_10-11-2016
+8:20:48 : Folder cleanup started for : g:/ram/projects/websites/paramountsystems.rpluscrm.com/temp/rplusbackup_11-11-2016
+8:20:48 : Folder cleanup completed for : g:/ram/projects/websites/paramountsystems.rpluscrm.com/temp/rplusbackup_11-11-2016
+8:20:48 : Folder cleanup started for : g:/ram/projects/websites/paramountsystems.rpluscrm.com/temp/rplusbackup_28-10-2016
+8:20:48 : Folder cleanup completed for : g:/ram/projects/websites/paramountsystems.rpluscrm.com/temp/rplusbackup_28-10-2016
+8:20:48 : Folder cleanup started for : g:/ram/projects/websites/paramountsystems.rpluscrm.com/temp/rplusbackup_8-11-2016
+8:20:48 : Folder cleanup completed for : g:/ram/projects/websites/paramountsystems.rpluscrm.com/temp/rplusbackup_8-11-2016
+8:20:48 : Folder cleanup started for : g:/ram/projects/websites/rpluscrm.com/temp/4b6ebe19-9295-4809-bfbd-9d58d4edf4a0
+8:20:48 : Folder cleanup completed for : g:/ram/projects/websites/rpluscrm.com/temp/4b6ebe19-9295-4809-bfbd-9d58d4edf4a0
+8:20:48 : Folder cleanup started for : g:/ram/projects/websites/rpluscrm.com/temp/5ca00717-23da-4177-8370-4a345baea1bf
+8:20:48 : Folder cleanup completed for : g:/ram/projects/websites/rpluscrm.com/temp/5ca00717-23da-4177-8370-4a345baea1bf
+8:20:48 : Folder cleanup started for : g:/ram/projects/websites/rpluscrm.com/temp/774c8d0c-ed33-4232-9acd-02ddbe83959d
+8:20:48 : Folder cleanup completed for : g:/ram/projects/websites/rpluscrm.com/temp/774c8d0c-ed33-4232-9acd-02ddbe83959d
+8:20:48 : Folder cleanup started for : g:/ram/projects/websites/rpluscrm.com/temp/86219269-f3d7-436c-a5cf-1426e65527e3
+8:20:48 : Folder cleanup completed for : g:/ram/projects/websites/rpluscrm.com/temp/86219269-f3d7-436c-a5cf-1426e65527e3
+8:20:48 : Folder cleanup started for : g:/ram/projects/websites/rpluscrm.com/temp/9224294e-03db-467e-8e2a-301c647ded17
+8:20:48 : Folder cleanup completed for : g:/ram/projects/websites/rpluscrm.com/temp/9224294e-03db-467e-8e2a-301c647ded17
+8:20:48 : Folder cleanup started for : g:/ram/projects/websites/rpluscrm.com/temp/abc48067-b704-4d04-aa6f-96932ab47ddb
+8:20:48 : Folder cleanup completed for : g:/ram/projects/websites/rpluscrm.com/temp/abc48067-b704-4d04-aa6f-96932ab47ddb
+8:20:48 : Folder cleanup started for : g:/ram/projects/websites/rpluscrm.com/temp/b1cd69f2-7e49-4ba7-9c09-93d290a04d77
+8:20:48 : Folder cleanup completed for : g:/ram/projects/websites/rpluscrm.com/temp/b1cd69f2-7e49-4ba7-9c09-93d290a04d77
+8:20:48 : Folder cleanup started for : g:/ram/projects/websites/rpluscrm.com/temp/d3b7fa0e-7f0c-4a84-834f-6ca6015c16b9
+8:20:48 : Folder cleanup completed for : g:/ram/projects/websites/rpluscrm.com/temp/d3b7fa0e-7f0c-4a84-834f-6ca6015c16b9
+8:20:48 : Folder cleanup started for : g:/ram/projects/websites/rpluscrm.com/temp/d8b6273a-e22f-4e31-993d-cf5c95c79141
+8:20:48 : Folder cleanup completed for : g:/ram/projects/websites/rpluscrm.com/temp/d8b6273a-e22f-4e31-993d-cf5c95c79141
+8:20:49 : Folder cleanup started for : g:/ram/projects/websites/rpluscrm_alakrity_v8/temp/rplusbackup_21-1-2018
+8:20:49 : Folder cleanup completed for : g:/ram/projects/websites/rpluscrm_alakrity_v8/temp/rplusbackup_21-1-2018
+8:20:49 : Folder cleanup started for : g:/ram/projects/websites/rpluscrm_alakrity_v8/temp/rplusbackup_21-11-2017
+8:20:49 : Folder cleanup completed for : g:/ram/projects/websites/rpluscrm_alakrity_v8/temp/rplusbackup_21-11-2017
+8:20:49 : Folder cleanup started for : g:/ram/projects/websites/rpluscrm_website_old/temp/4b6ebe19-9295-4809-bfbd-9d58d4edf4a0
+8:20:49 : Folder cleanup completed for : g:/ram/projects/websites/rpluscrm_website_old/temp/4b6ebe19-9295-4809-bfbd-9d58d4edf4a0
+8:20:49 : Folder cleanup started for : g:/ram/projects/websites/rpluscrm_website_old/temp/5ca00717-23da-4177-8370-4a345baea1bf
+8:20:49 : Folder cleanup completed for : g:/ram/projects/websites/rpluscrm_website_old/temp/5ca00717-23da-4177-8370-4a345baea1bf
+8:20:49 : Folder cleanup started for : g:/ram/projects/websites/rpluscrm_website_old/temp/774c8d0c-ed33-4232-9acd-02ddbe83959d
+8:20:49 : Folder cleanup completed for : g:/ram/projects/websites/rpluscrm_website_old/temp/774c8d0c-ed33-4232-9acd-02ddbe83959d
+8:20:49 : Folder cleanup started for : g:/ram/projects/websites/rpluscrm_website_old/temp/86219269-f3d7-436c-a5cf-1426e65527e3
+8:20:49 : Folder cleanup completed for : g:/ram/projects/websites/rpluscrm_website_old/temp/86219269-f3d7-436c-a5cf-1426e65527e3
+8:20:49 : Folder cleanup started for : g:/ram/projects/websites/rpluscrm_website_old/temp/9224294e-03db-467e-8e2a-301c647ded17
+8:20:49 : Folder cleanup completed for : g:/ram/projects/websites/rpluscrm_website_old/temp/9224294e-03db-467e-8e2a-301c647ded17
+8:20:49 : Folder cleanup started for : g:/ram/projects/websites/rpluscrm_website_old/temp/abc48067-b704-4d04-aa6f-96932ab47ddb
+8:20:49 : Folder cleanup completed for : g:/ram/projects/websites/rpluscrm_website_old/temp/abc48067-b704-4d04-aa6f-96932ab47ddb
+8:20:49 : Folder cleanup started for : g:/ram/projects/websites/rpluscrm_website_old/temp/b1cd69f2-7e49-4ba7-9c09-93d290a04d77
+8:20:49 : Folder cleanup completed for : g:/ram/projects/websites/rpluscrm_website_old/temp/b1cd69f2-7e49-4ba7-9c09-93d290a04d77
+8:20:49 : Folder cleanup started for : g:/ram/projects/websites/rpluscrm_website_old/temp/d3b7fa0e-7f0c-4a84-834f-6ca6015c16b9
+8:20:49 : Folder cleanup completed for : g:/ram/projects/websites/rpluscrm_website_old/temp/d3b7fa0e-7f0c-4a84-834f-6ca6015c16b9
+8:20:49 : Folder cleanup started for : g:/ram/projects/websites/rpluscrm_website_old/temp/d8b6273a-e22f-4e31-993d-cf5c95c79141
+8:20:49 : Folder cleanup completed for : g:/ram/projects/websites/rpluscrm_website_old/temp/d8b6273a-e22f-4e31-993d-cf5c95c79141
+8:20:49 : Temp folder cleanup completed
+8:23:49 : Temp folder cleanup started
+8:23:49 : Folder cleanup started for : g:/ram/projects/websites/aeaircon_v8/upload/child/setting/temp
+8:23:49 : Folder cleanup completed for : g:/ram/projects/websites/aeaircon_v8/upload/child/setting/temp
+8:23:49 : Folder cleanup started for : g:/ram/projects/websites/aeaircon_v8/upload/subcompany-logo/temp
+8:23:49 : Folder cleanup completed for : g:/ram/projects/websites/aeaircon_v8/upload/subcompany-logo/temp
+8:23:49 : Folder cleanup started for : g:/ram/projects/websites/aeaircon_v8/upload/temp
+8:23:49 : Folder cleanup completed for : g:/ram/projects/websites/aeaircon_v8/upload/temp
+8:23:49 : Folder cleanup started for : g:/ram/projects/websites/aeaircon_v8/upload/user/temp
+8:23:49 : Folder cleanup completed for : g:/ram/projects/websites/aeaircon_v8/upload/user/temp
+8:23:49 : Folder cleanup started for : g:/ram/projects/websites/aeaircon_v8/upload/webproduct/temp
+8:23:49 : Folder cleanup completed for : g:/ram/projects/websites/aeaircon_v8/upload/webproduct/temp
+8:23:49 : Folder cleanup started for : g:/ram/projects/websites/amc_bepure/upload/amcservice/temp
+8:23:49 : Folder cleanup completed for : g:/ram/projects/websites/amc_bepure/upload/amcservice/temp
+8:23:49 : Folder cleanup started for : g:/ram/projects/websites/amc_bepure/upload/client-logo/temp
+8:23:49 : Folder cleanup completed for : g:/ram/projects/websites/amc_bepure/upload/client-logo/temp
+8:23:50 : Folder cleanup started for : g:/ram/projects/websites/amc_bepure/upload/temp
+8:23:50 : Folder cleanup completed for : g:/ram/projects/websites/amc_bepure/upload/temp
+8:23:50 : Folder cleanup started for : g:/ram/projects/websites/amc_crystaldiagnovision/upload/amcservice/temp
+8:23:50 : Folder cleanup completed for : g:/ram/projects/websites/amc_crystaldiagnovision/upload/amcservice/temp
+8:23:50 : Folder cleanup started for : g:/ram/projects/websites/amc_crystaldiagnovision/upload/client-logo/temp
+8:23:50 : Folder cleanup completed for : g:/ram/projects/websites/amc_crystaldiagnovision/upload/client-logo/temp
+8:23:50 : Folder cleanup started for : g:/ram/projects/websites/amc_crystaldiagnovision/upload/email/temp
+8:23:50 : Folder cleanup completed for : g:/ram/projects/websites/amc_crystaldiagnovision/upload/email/temp
+8:23:50 : Folder cleanup started for : g:/ram/projects/websites/amc_crystaldiagnovision/upload/temp
+8:23:50 : Folder cleanup completed for : g:/ram/projects/websites/amc_crystaldiagnovision/upload/temp
+8:23:50 : Folder cleanup started for : g:/ram/projects/websites/amc_smartinfocom/upload/client-logo/temp
+8:23:50 : Folder cleanup completed for : g:/ram/projects/websites/amc_smartinfocom/upload/client-logo/temp
+8:23:50 : Folder cleanup started for : g:/ram/projects/websites/amc_smartinfocom/upload/importdata/temp
+8:23:50 : Folder cleanup completed for : g:/ram/projects/websites/amc_smartinfocom/upload/importdata/temp
+8:23:50 : Folder cleanup started for : g:/ram/projects/websites/amc_smartinfocom/upload/temp
+8:23:50 : Folder cleanup completed for : g:/ram/projects/websites/amc_smartinfocom/upload/temp
+8:23:50 : Folder cleanup started for : g:/ram/projects/websites/asiansportsandfitness_v8/upload/user/temp
+8:23:50 : Folder cleanup completed for : g:/ram/projects/websites/asiansportsandfitness_v8/upload/user/temp
+8:23:50 : Folder cleanup started for : g:/ram/projects/websites/backup/crm_finrex/upload/companyprofile/temp
+8:23:50 : Folder cleanup completed for : g:/ram/projects/websites/backup/crm_finrex/upload/companyprofile/temp
+8:23:50 : Folder cleanup started for : g:/ram/projects/websites/backup/crm_finrex_18_7_23/upload/temp
+8:23:50 : Folder cleanup completed for : g:/ram/projects/websites/backup/crm_finrex_18_7_23/upload/temp
+8:23:50 : Folder cleanup started for : g:/ram/projects/websites/backup/crm_finrex_31_1_23/upload/temp
+8:23:50 : Folder cleanup completed for : g:/ram/projects/websites/backup/crm_finrex_31_1_23/upload/temp
+8:23:50 : Folder cleanup started for : g:/ram/projects/websites/backup/crm_finrex_before_new_server_30_3_24/upload/companyprofile/temp
+8:23:50 : Folder cleanup completed for : g:/ram/projects/websites/backup/crm_finrex_before_new_server_30_3_24/upload/companyprofile/temp
+8:23:50 : Folder cleanup started for : g:/ram/projects/websites/backup/crm_rpluserp_v9_15_4_23/upload/client/partner/partnershipagreement/temp
+8:23:50 : Folder cleanup completed for : g:/ram/projects/websites/backup/crm_rpluserp_v9_15_4_23/upload/client/partner/partnershipagreement/temp
+8:23:50 : Folder cleanup started for : g:/ram/projects/websites/backup/crm_rpluserp_v9_15_4_23/upload/project/temp
+8:23:50 : Folder cleanup completed for : g:/ram/projects/websites/backup/crm_rpluserp_v9_15_4_23/upload/project/temp
+8:23:50 : Folder cleanup started for : g:/ram/projects/websites/backup/crm_rpluserp_v9_15_4_23/upload/setting/temp
+8:23:50 : Folder cleanup completed for : g:/ram/projects/websites/backup/crm_rpluserp_v9_15_4_23/upload/setting/temp
+8:23:50 : Folder cleanup started for : g:/ram/projects/websites/backup/crm_rpluserp_v9_19_9_23/upload/client/partner/partnershipagreement/temp
+8:23:50 : Folder cleanup completed for : g:/ram/projects/websites/backup/crm_rpluserp_v9_19_9_23/upload/client/partner/partnershipagreement/temp
+8:23:50 : Folder cleanup started for : g:/ram/projects/websites/backup/crm_rpluserp_v9_19_9_23/upload/document/temp
+8:23:50 : Folder cleanup completed for : g:/ram/projects/websites/backup/crm_rpluserp_v9_19_9_23/upload/document/temp
+8:23:50 : Folder cleanup started for : g:/ram/projects/websites/backup/crm_rpluserp_v9_19_9_23/upload/emoji/temp
+8:23:50 : Folder cleanup completed for : g:/ram/projects/websites/backup/crm_rpluserp_v9_19_9_23/upload/emoji/temp
+8:23:50 : Folder cleanup started for : g:/ram/projects/websites/backup/crm_rpluserp_v9_19_9_23/upload/project/temp
+8:23:50 : Folder cleanup completed for : g:/ram/projects/websites/backup/crm_rpluserp_v9_19_9_23/upload/project/temp
+8:23:50 : Folder cleanup started for : g:/ram/projects/websites/backup/crm_rpluserp_v9_19_9_23/upload/setting/temp
+8:23:50 : Folder cleanup completed for : g:/ram/projects/websites/backup/crm_rpluserp_v9_19_9_23/upload/setting/temp
+8:23:50 : Folder cleanup started for : g:/ram/projects/websites/backup/crm_rpluserp_v9_2_12_23/upload/client/partner/partnershipagreement/temp
+8:23:50 : Folder cleanup completed for : g:/ram/projects/websites/backup/crm_rpluserp_v9_2_12_23/upload/client/partner/partnershipagreement/temp
+8:23:50 : Folder cleanup started for : g:/ram/projects/websites/backup/crm_rpluserp_v9_2_12_23/upload/document/temp
+8:23:50 : Folder cleanup completed for : g:/ram/projects/websites/backup/crm_rpluserp_v9_2_12_23/upload/document/temp
+8:23:50 : Folder cleanup started for : g:/ram/projects/websites/backup/crm_rpluserp_v9_2_12_23/upload/emoji/temp
+8:23:50 : Folder cleanup completed for : g:/ram/projects/websites/backup/crm_rpluserp_v9_2_12_23/upload/emoji/temp
+8:23:50 : Folder cleanup started for : g:/ram/projects/websites/backup/crm_rpluserp_v9_2_12_23/upload/project/temp
+8:23:50 : Folder cleanup completed for : g:/ram/projects/websites/backup/crm_rpluserp_v9_2_12_23/upload/project/temp
+8:23:50 : Folder cleanup started for : g:/ram/projects/websites/backup/crm_rpluserp_v9_2_12_23/upload/setting/temp
+8:23:50 : Folder cleanup completed for : g:/ram/projects/websites/backup/crm_rpluserp_v9_2_12_23/upload/setting/temp
+8:23:50 : Folder cleanup started for : g:/ram/projects/websites/backup/crm_rpluserp_v9_2_3_24/upload/bulkemail/temp
+8:23:50 : Folder cleanup completed for : g:/ram/projects/websites/backup/crm_rpluserp_v9_2_3_24/upload/bulkemail/temp
+8:23:50 : Folder cleanup started for : g:/ram/projects/websites/backup/crm_rpluserp_v9_2_3_24/upload/client/partner/partnershipagreement/temp
+8:23:50 : Folder cleanup completed for : g:/ram/projects/websites/backup/crm_rpluserp_v9_2_3_24/upload/client/partner/partnershipagreement/temp
+8:23:50 : Folder cleanup started for : g:/ram/projects/websites/backup/crm_rpluserp_v9_2_3_24/upload/clientemail/temp
+8:23:50 : Folder cleanup completed for : g:/ram/projects/websites/backup/crm_rpluserp_v9_2_3_24/upload/clientemail/temp
+8:23:50 : Folder cleanup started for : g:/ram/projects/websites/backup/crm_rpluserp_v9_2_3_24/upload/document/temp
+8:23:50 : Folder cleanup completed for : g:/ram/projects/websites/backup/crm_rpluserp_v9_2_3_24/upload/document/temp
+8:23:50 : Folder cleanup started for : g:/ram/projects/websites/backup/crm_rpluserp_v9_2_3_24/upload/emoji/temp
+8:23:50 : Folder cleanup completed for : g:/ram/projects/websites/backup/crm_rpluserp_v9_2_3_24/upload/emoji/temp
+8:23:50 : Folder cleanup started for : g:/ram/projects/websites/backup/crm_rpluserp_v9_2_3_24/upload/project/temp
+8:23:50 : Folder cleanup completed for : g:/ram/projects/websites/backup/crm_rpluserp_v9_2_3_24/upload/project/temp
+8:23:50 : Folder cleanup started for : g:/ram/projects/websites/backup/crm_rpluserp_v9_2_3_24/upload/setting/temp
+8:23:50 : Folder cleanup completed for : g:/ram/projects/websites/backup/crm_rpluserp_v9_2_3_24/upload/setting/temp
+8:23:50 : Folder cleanup started for : g:/ram/projects/websites/backup/crm_rpluserp_v9_2_7_24/upload/bulkemail/temp
+8:23:50 : Folder cleanup completed for : g:/ram/projects/websites/backup/crm_rpluserp_v9_2_7_24/upload/bulkemail/temp
+8:23:50 : Folder cleanup started for : g:/ram/projects/websites/backup/crm_rpluserp_v9_2_7_24/upload/client/partner/partnershipagreement/temp
+8:23:50 : Folder cleanup completed for : g:/ram/projects/websites/backup/crm_rpluserp_v9_2_7_24/upload/client/partner/partnershipagreement/temp
+8:23:50 : Folder cleanup started for : g:/ram/projects/websites/backup/crm_rpluserp_v9_2_7_24/upload/clientemail/temp
+8:23:50 : Folder cleanup completed for : g:/ram/projects/websites/backup/crm_rpluserp_v9_2_7_24/upload/clientemail/temp
+8:23:50 : Folder cleanup started for : g:/ram/projects/websites/backup/crm_rpluserp_v9_2_7_24/upload/document/temp
+8:23:50 : Folder cleanup completed for : g:/ram/projects/websites/backup/crm_rpluserp_v9_2_7_24/upload/document/temp
+8:23:50 : Folder cleanup started for : g:/ram/projects/websites/backup/crm_rpluserp_v9_2_7_24/upload/emoji/temp
+8:23:50 : Folder cleanup completed for : g:/ram/projects/websites/backup/crm_rpluserp_v9_2_7_24/upload/emoji/temp
+8:23:50 : Folder cleanup started for : g:/ram/projects/websites/backup/crm_rpluserp_v9_2_7_24/upload/project/temp
+8:23:50 : Folder cleanup completed for : g:/ram/projects/websites/backup/crm_rpluserp_v9_2_7_24/upload/project/temp
+8:23:50 : Folder cleanup started for : g:/ram/projects/websites/backup/crm_rpluserp_v9_2_7_24/upload/setting/temp
+8:23:50 : Folder cleanup completed for : g:/ram/projects/websites/backup/crm_rpluserp_v9_2_7_24/upload/setting/temp
+8:23:50 : Folder cleanup started for : g:/ram/projects/websites/backup/crm_rpluserp_v9_4_12_23/upload/client/partner/partnershipagreement/temp
+8:23:50 : Folder cleanup completed for : g:/ram/projects/websites/backup/crm_rpluserp_v9_4_12_23/upload/client/partner/partnershipagreement/temp
+8:23:50 : Folder cleanup started for : g:/ram/projects/websites/backup/crm_rpluserp_v9_4_12_23/upload/document/temp
+8:23:50 : Folder cleanup completed for : g:/ram/projects/websites/backup/crm_rpluserp_v9_4_12_23/upload/document/temp
+8:23:50 : Folder cleanup started for : g:/ram/projects/websites/backup/crm_rpluserp_v9_4_12_23/upload/emoji/temp
+8:23:50 : Folder cleanup completed for : g:/ram/projects/websites/backup/crm_rpluserp_v9_4_12_23/upload/emoji/temp
+8:23:50 : Folder cleanup started for : g:/ram/projects/websites/backup/crm_rpluserp_v9_4_12_23/upload/project/temp
+8:23:50 : Folder cleanup completed for : g:/ram/projects/websites/backup/crm_rpluserp_v9_4_12_23/upload/project/temp
+8:23:50 : Folder cleanup started for : g:/ram/projects/websites/backup/crm_rpluserp_v9_4_12_23/upload/setting/temp
+8:23:50 : Folder cleanup completed for : g:/ram/projects/websites/backup/crm_rpluserp_v9_4_12_23/upload/setting/temp
+8:23:50 : Folder cleanup started for : g:/ram/projects/websites/backup/crm_rpluserp_v9_6_12_23/upload/client/partner/partnershipagreement/temp
+8:23:50 : Folder cleanup completed for : g:/ram/projects/websites/backup/crm_rpluserp_v9_6_12_23/upload/client/partner/partnershipagreement/temp
+8:23:50 : Folder cleanup started for : g:/ram/projects/websites/backup/crm_rpluserp_v9_6_12_23/upload/document/temp
+8:23:50 : Folder cleanup completed for : g:/ram/projects/websites/backup/crm_rpluserp_v9_6_12_23/upload/document/temp
+8:23:50 : Folder cleanup started for : g:/ram/projects/websites/backup/crm_rpluserp_v9_6_12_23/upload/emoji/temp
+8:23:50 : Folder cleanup completed for : g:/ram/projects/websites/backup/crm_rpluserp_v9_6_12_23/upload/emoji/temp
+8:23:50 : Folder cleanup started for : g:/ram/projects/websites/backup/crm_rpluserp_v9_6_12_23/upload/project/temp
+8:23:50 : Folder cleanup completed for : g:/ram/projects/websites/backup/crm_rpluserp_v9_6_12_23/upload/project/temp
+8:23:50 : Folder cleanup started for : g:/ram/projects/websites/backup/crm_rpluserp_v9_6_12_23/upload/setting/temp
+8:23:50 : Folder cleanup completed for : g:/ram/projects/websites/backup/crm_rpluserp_v9_6_12_23/upload/setting/temp
+8:23:50 : Folder cleanup started for : g:/ram/projects/websites/backup/finstation_27_1_23/crm_finrex_13_9_22/upload/temp
+8:23:50 : Folder cleanup completed for : g:/ram/projects/websites/backup/finstation_27_1_23/crm_finrex_13_9_22/upload/temp
+8:23:50 : Folder cleanup started for : g:/ram/projects/websites/backup/goaltime_v8_11_5_22/upload/client/partner/partnershipagreement/temp
+8:23:50 : Folder cleanup completed for : g:/ram/projects/websites/backup/goaltime_v8_11_5_22/upload/client/partner/partnershipagreement/temp
+8:23:50 : Folder cleanup started for : g:/ram/projects/websites/backup/goaltime_v8_11_5_22/upload/setting/temp
+8:23:50 : Folder cleanup completed for : g:/ram/projects/websites/backup/goaltime_v8_11_5_22/upload/setting/temp
+8:23:50 : Folder cleanup started for : g:/ram/projects/websites/crm_intertradeautomation/upload/client-logo/temp
+8:23:50 : Folder cleanup completed for : g:/ram/projects/websites/crm_intertradeautomation/upload/client-logo/temp
+8:23:50 : Folder cleanup started for : g:/ram/projects/websites/crm_intertradeautomation/upload/temp
+8:23:50 : Folder cleanup completed for : g:/ram/projects/websites/crm_intertradeautomation/upload/temp
+8:23:50 : Folder cleanup started for : g:/ram/projects/websites/crm_rpluserp_v8/upload/client/partner/partnershipagreement/temp
+8:23:50 : Folder cleanup completed for : g:/ram/projects/websites/crm_rpluserp_v8/upload/client/partner/partnershipagreement/temp
+8:23:50 : Folder cleanup started for : g:/ram/projects/websites/crm_rpluserp_v8/upload/project/temp
+8:23:50 : Folder cleanup completed for : g:/ram/projects/websites/crm_rpluserp_v8/upload/project/temp
+8:23:50 : Folder cleanup started for : g:/ram/projects/websites/crm_rpluserp_v8/upload/setting/temp
+8:23:50 : Folder cleanup completed for : g:/ram/projects/websites/crm_rpluserp_v8/upload/setting/temp
+8:23:50 : Folder cleanup started for : g:/ram/projects/websites/crm_rpluserp_v9/upload/emoji/temp
+8:23:50 : Folder cleanup completed for : g:/ram/projects/websites/crm_rpluserp_v9/upload/emoji/temp
+8:23:50 : Folder cleanup started for : g:/ram/projects/websites/crm_rpluserp_v9/upload/temp
+8:23:50 : Folder cleanup completed for : g:/ram/projects/websites/crm_rpluserp_v9/upload/temp
+8:23:51 : Folder cleanup started for : g:/ram/projects/websites/crm_rpluserp_v9 - copy/upload/bulkemail/temp
+8:23:51 : Folder cleanup completed for : g:/ram/projects/websites/crm_rpluserp_v9 - copy/upload/bulkemail/temp
+8:23:51 : Folder cleanup started for : g:/ram/projects/websites/crm_rpluserp_v9 - copy/upload/client/partner/partnershipagreement/temp
+8:23:51 : Folder cleanup completed for : g:/ram/projects/websites/crm_rpluserp_v9 - copy/upload/client/partner/partnershipagreement/temp
+8:23:51 : Folder cleanup started for : g:/ram/projects/websites/crm_rpluserp_v9 - copy/upload/clientemail/temp
+8:23:51 : Folder cleanup completed for : g:/ram/projects/websites/crm_rpluserp_v9 - copy/upload/clientemail/temp
+8:23:51 : Folder cleanup started for : g:/ram/projects/websites/crm_rpluserp_v9 - copy/upload/document/temp
+8:23:51 : Folder cleanup completed for : g:/ram/projects/websites/crm_rpluserp_v9 - copy/upload/document/temp
+8:23:51 : Folder cleanup started for : g:/ram/projects/websites/crm_rpluserp_v9 - copy/upload/emoji/temp
+8:23:51 : Folder cleanup completed for : g:/ram/projects/websites/crm_rpluserp_v9 - copy/upload/emoji/temp
+8:23:51 : Folder cleanup started for : g:/ram/projects/websites/crm_rpluserp_v9 - copy/upload/project/temp
+8:23:51 : Folder cleanup completed for : g:/ram/projects/websites/crm_rpluserp_v9 - copy/upload/project/temp
+8:23:51 : Folder cleanup started for : g:/ram/projects/websites/crm_rpluserp_v9 - copy/upload/setting/temp
+8:23:51 : Folder cleanup completed for : g:/ram/projects/websites/crm_rpluserp_v9 - copy/upload/setting/temp
+8:23:51 : Folder cleanup started for : g:/ram/projects/websites/crm_rpluserp_v9_2_7_24/upload/bulkemail/temp
+8:23:51 : Folder cleanup completed for : g:/ram/projects/websites/crm_rpluserp_v9_2_7_24/upload/bulkemail/temp
+8:23:51 : Folder cleanup started for : g:/ram/projects/websites/crm_rpluserp_v9_2_7_24/upload/client/partner/partnershipagreement/temp
+8:23:51 : Folder cleanup completed for : g:/ram/projects/websites/crm_rpluserp_v9_2_7_24/upload/client/partner/partnershipagreement/temp
+8:23:51 : Folder cleanup started for : g:/ram/projects/websites/crm_rpluserp_v9_2_7_24/upload/clientemail/temp
+8:23:51 : Folder cleanup completed for : g:/ram/projects/websites/crm_rpluserp_v9_2_7_24/upload/clientemail/temp
+8:23:51 : Folder cleanup started for : g:/ram/projects/websites/crm_rpluserp_v9_2_7_24/upload/document/temp
+8:23:51 : Folder cleanup completed for : g:/ram/projects/websites/crm_rpluserp_v9_2_7_24/upload/document/temp
+8:23:51 : Folder cleanup started for : g:/ram/projects/websites/crm_rpluserp_v9_2_7_24/upload/emoji/temp
+8:23:51 : Folder cleanup completed for : g:/ram/projects/websites/crm_rpluserp_v9_2_7_24/upload/emoji/temp
+8:23:51 : Folder cleanup started for : g:/ram/projects/websites/crm_rpluserp_v9_2_7_24/upload/project/temp
+8:23:51 : Folder cleanup completed for : g:/ram/projects/websites/crm_rpluserp_v9_2_7_24/upload/project/temp
+8:23:51 : Folder cleanup started for : g:/ram/projects/websites/crm_rpluserp_v9_2_7_24/upload/setting/temp
+8:23:51 : Folder cleanup completed for : g:/ram/projects/websites/crm_rpluserp_v9_2_7_24/upload/setting/temp
+8:23:51 : Folder cleanup started for : g:/ram/projects/websites/crm_rpluserp_v9_old/upload/bulkemail/temp
+8:23:51 : Folder cleanup completed for : g:/ram/projects/websites/crm_rpluserp_v9_old/upload/bulkemail/temp
+8:23:51 : Folder cleanup started for : g:/ram/projects/websites/crm_rpluserp_v9_old/upload/client/partner/partnershipagreement/temp
+8:23:51 : Folder cleanup completed for : g:/ram/projects/websites/crm_rpluserp_v9_old/upload/client/partner/partnershipagreement/temp
+8:23:51 : Folder cleanup started for : g:/ram/projects/websites/crm_rpluserp_v9_old/upload/clientemail/temp
+8:23:51 : Folder cleanup completed for : g:/ram/projects/websites/crm_rpluserp_v9_old/upload/clientemail/temp
+8:23:51 : Folder cleanup started for : g:/ram/projects/websites/crm_rpluserp_v9_old/upload/document/temp
+8:23:51 : Folder cleanup completed for : g:/ram/projects/websites/crm_rpluserp_v9_old/upload/document/temp
+8:23:51 : Folder cleanup started for : g:/ram/projects/websites/crm_rpluserp_v9_old/upload/emoji/temp
+8:23:51 : Folder cleanup completed for : g:/ram/projects/websites/crm_rpluserp_v9_old/upload/emoji/temp
+8:23:51 : Folder cleanup started for : g:/ram/projects/websites/crm_rpluserp_v9_old/upload/project/temp
+8:23:51 : Folder cleanup completed for : g:/ram/projects/websites/crm_rpluserp_v9_old/upload/project/temp
+8:23:51 : Folder cleanup started for : g:/ram/projects/websites/crm_rpluserp_v9_old/upload/setting/temp
+8:23:51 : Folder cleanup completed for : g:/ram/projects/websites/crm_rpluserp_v9_old/upload/setting/temp
+8:23:51 : Folder cleanup started for : g:/ram/projects/websites/goaltime_v8/upload/appslide/temp
+8:23:51 : Folder cleanup completed for : g:/ram/projects/websites/goaltime_v8/upload/appslide/temp
+8:23:51 : Folder cleanup started for : g:/ram/projects/websites/goaltime_v8/upload/client/partner/partnershipagreement/temp
+8:23:51 : Folder cleanup completed for : g:/ram/projects/websites/goaltime_v8/upload/client/partner/partnershipagreement/temp
+8:23:51 : Folder cleanup started for : g:/ram/projects/websites/goaltime_v8/upload/setting/temp
+8:23:51 : Folder cleanup completed for : g:/ram/projects/websites/goaltime_v8/upload/setting/temp
+8:23:51 : Folder cleanup started for : g:/ram/projects/websites/paramountsystems.rpluscrm.com/upload/amcservice/temp
+8:23:51 : Folder cleanup completed for : g:/ram/projects/websites/paramountsystems.rpluscrm.com/upload/amcservice/temp
+8:23:51 : Folder cleanup started for : g:/ram/projects/websites/paramountsystems.rpluscrm.com/upload/client-logo/temp
+8:23:51 : Folder cleanup completed for : g:/ram/projects/websites/paramountsystems.rpluscrm.com/upload/client-logo/temp
+8:23:51 : Folder cleanup started for : g:/ram/projects/websites/paramountsystems.rpluscrm.com/upload/email/temp
+8:23:51 : Folder cleanup completed for : g:/ram/projects/websites/paramountsystems.rpluscrm.com/upload/email/temp
+8:23:51 : Folder cleanup started for : g:/ram/projects/websites/paramountsystems.rpluscrm.com/upload/temp
+8:23:51 : Folder cleanup completed for : g:/ram/projects/websites/paramountsystems.rpluscrm.com/upload/temp
+8:23:51 : Folder cleanup started for : g:/ram/projects/websites/rpluscrmwebapi/rpluscrmwebapi/upload/databasebackup/temp
+8:23:51 : Folder cleanup completed for : g:/ram/projects/websites/rpluscrmwebapi/rpluscrmwebapi/upload/databasebackup/temp
+8:23:51 : Folder cleanup started for : g:/ram/projects/websites/rpluscrm_alakrity_v8/upload/child/setting/temp
+8:23:51 : Folder cleanup completed for : g:/ram/projects/websites/rpluscrm_alakrity_v8/upload/child/setting/temp
+8:23:51 : Folder cleanup started for : g:/ram/projects/websites/rpluscrm_alakrity_v8/upload/subcompany-logo/temp
+8:23:51 : Folder cleanup completed for : g:/ram/projects/websites/rpluscrm_alakrity_v8/upload/subcompany-logo/temp
+8:23:51 : Folder cleanup started for : g:/ram/projects/websites/rpluscrm_alakrity_v8/upload/temp
+8:23:51 : Folder cleanup completed for : g:/ram/projects/websites/rpluscrm_alakrity_v8/upload/temp
+8:23:51 : Folder cleanup started for : g:/ram/projects/websites/rpluscrm_alakrity_v8/upload/user/temp
+8:23:51 : Folder cleanup completed for : g:/ram/projects/websites/rpluscrm_alakrity_v8/upload/user/temp
+8:23:51 : Folder cleanup started for : g:/ram/projects/websites/rpluscrm_alakrity_v8/upload/webproduct/temp
+8:23:51 : Folder cleanup completed for : g:/ram/projects/websites/rpluscrm_alakrity_v8/upload/webproduct/temp
+8:23:51 : Folder cleanup started for : g:/ram/projects/websites/rplusfileuploader/upload/temp
+8:23:51 : Folder cleanup completed for : g:/ram/projects/websites/rplusfileuploader/upload/temp
+8:23:51 : Folder cleanup started for : g:/ram/projects/websites/rpluspos_v8/upload/employee/temp
+8:23:51 : Folder cleanup completed for : g:/ram/projects/websites/rpluspos_v8/upload/employee/temp
+8:23:51 : Folder cleanup started for : g:/ram/projects/websites/rpluspos_v8/upload/product/temp
+8:23:51 : Folder cleanup completed for : g:/ram/projects/websites/rpluspos_v8/upload/product/temp
+8:23:51 : Folder cleanup started for : g:/ram/projects/websites/rpluspos_v8/upload/temp
+8:23:51 : Folder cleanup completed for : g:/ram/projects/websites/rpluspos_v8/upload/temp
+8:23:51 : Folder cleanup started for : g:/ram/projects/websites/rpluspos_v8/upload/user/temp
+8:23:51 : Folder cleanup completed for : g:/ram/projects/websites/rpluspos_v8/upload/user/temp
+8:23:51 : Folder cleanup started for : g:/ram/projects/websites/vaikundar_v8/upload/emoji/temp
+8:23:51 : Folder cleanup completed for : g:/ram/projects/websites/vaikundar_v8/upload/emoji/temp
+8:23:51 : Temp folder cleanup completed
+8:53:9 : Temp folder cleanup started
+8:53:59 : Temp folder cleanup started
+8:55:3 : Temp folder cleanup started
+8:55:44 : Log folder cleanup started for : g:/ram/projects/websites/asiansportsandfitness_v8/doc/log
+8:55:58 : Log Folder cleanup completed for : g:/ram/projects/websites/asiansportsandfitness_v8/doc/log
+8:55:58 : Log folder cleanup started for : g:/ram/projects/websites/asiansportsandfitness_v8/doc/log/deleteddata/expenses
+8:55:58 : Log Folder cleanup completed for : g:/ram/projects/websites/asiansportsandfitness_v8/doc/log/deleteddata/expenses
+8:55:58 : Log folder cleanup started for : g:/ram/projects/websites/asiansportsandfitness_v8/doc/log/email
+8:55:58 : Log Folder cleanup completed for : g:/ram/projects/websites/asiansportsandfitness_v8/doc/log/email
+8:55:58 : Log folder cleanup started for : g:/ram/projects/websites/asiansportsandfitness_v8/doc/log/rpluscrm_master_v8
+8:55:58 : Log Folder cleanup completed for : g:/ram/projects/websites/asiansportsandfitness_v8/doc/log/rpluscrm_master_v8
+8:55:58 : Log folder cleanup started for : g:/ram/projects/websites/asiansportsandfitness_v8/doc/log/signellent
+8:55:58 : Log Folder cleanup completed for : g:/ram/projects/websites/asiansportsandfitness_v8/doc/log/signellent
+8:55:58 : Log folder cleanup started for : g:/ram/projects/websites/asiansportsandfitness_v8/doc/log/vservinfosystems_live
+8:55:58 : Log Folder cleanup completed for : g:/ram/projects/websites/asiansportsandfitness_v8/doc/log/vservinfosystems_live
+8:55:58 : Log folder cleanup started for : g:/ram/projects/websites/backup/crm_finrex/doc/log
+8:55:58 : Log Folder cleanup completed for : g:/ram/projects/websites/backup/crm_finrex/doc/log
+8:55:58 : Log folder cleanup started for : g:/ram/projects/websites/backup/crm_finrex_before_new_server_30_3_24/doc/log
+8:55:58 : Log Folder cleanup completed for : g:/ram/projects/websites/backup/crm_finrex_before_new_server_30_3_24/doc/log
+8:55:59 : Log folder cleanup started for : g:/ram/projects/websites/backup/crm_rpluserp_v9_2_3_24/doc/log
+8:55:59 : Log Folder cleanup completed for : g:/ram/projects/websites/backup/crm_rpluserp_v9_2_3_24/doc/log
+8:55:59 : Log folder cleanup started for : g:/ram/projects/websites/backup/crm_rpluserp_v9_2_3_24/doc/log/deleteddata/activity
+8:55:59 : Log Folder cleanup completed for : g:/ram/projects/websites/backup/crm_rpluserp_v9_2_3_24/doc/log/deleteddata/activity
+8:55:59 : Log folder cleanup started for : g:/ram/projects/websites/backup/crm_rpluserp_v9_2_3_24/doc/log/deleteddata/analyticsscheduler
+8:55:59 : Log Folder cleanup completed for : g:/ram/projects/websites/backup/crm_rpluserp_v9_2_3_24/doc/log/deleteddata/analyticsscheduler
+8:55:59 : Log folder cleanup started for : g:/ram/projects/websites/backup/crm_rpluserp_v9_2_3_24/doc/log/deleteddata/client
+8:55:59 : Log Folder cleanup completed for : g:/ram/projects/websites/backup/crm_rpluserp_v9_2_3_24/doc/log/deleteddata/client
+8:55:59 : Log folder cleanup started for : g:/ram/projects/websites/backup/crm_rpluserp_v9_2_3_24/doc/log/deleteddata/extraquerycolumn
+8:55:59 : Log Folder cleanup completed for : g:/ram/projects/websites/backup/crm_rpluserp_v9_2_3_24/doc/log/deleteddata/extraquerycolumn
+8:55:59 : Log folder cleanup started for : g:/ram/projects/websites/backup/crm_rpluserp_v9_2_3_24/doc/log/deleteddata/vendor
+8:55:59 : Log Folder cleanup completed for : g:/ram/projects/websites/backup/crm_rpluserp_v9_2_3_24/doc/log/deleteddata/vendor
+8:55:59 : Log folder cleanup started for : g:/ram/projects/websites/backup/crm_rpluserp_v9_2_3_24/doc/log/deleteddata/vendorquoterequest
+8:55:59 : Log Folder cleanup completed for : g:/ram/projects/websites/backup/crm_rpluserp_v9_2_3_24/doc/log/deleteddata/vendorquoterequest
+8:55:59 : Log folder cleanup started for : g:/ram/projects/websites/backup/crm_rpluserp_v9_2_7_24/doc/log
+8:55:59 : Log Folder cleanup completed for : g:/ram/projects/websites/backup/crm_rpluserp_v9_2_7_24/doc/log
+8:55:59 : Log folder cleanup started for : g:/ram/projects/websites/backup/rpluscrmwebsite_18_6_24/doc/log
+8:55:59 : Log Folder cleanup completed for : g:/ram/projects/websites/backup/rpluscrmwebsite_18_6_24/doc/log
+8:55:59 : Log folder cleanup started for : g:/ram/projects/websites/crm_rpluserp_v8/doc/log
+8:55:59 : Log Folder cleanup completed for : g:/ram/projects/websites/crm_rpluserp_v8/doc/log
+8:55:59 : Log folder cleanup started for : g:/ram/projects/websites/crm_rpluserp_v9/doc/dmans/log
+8:55:59 : Log Folder cleanup completed for : g:/ram/projects/websites/crm_rpluserp_v9/doc/dmans/log
+8:55:59 : Log folder cleanup started for : g:/ram/projects/websites/crm_rpluserp_v9 - copy/doc/log
+8:55:59 : Log Folder cleanup completed for : g:/ram/projects/websites/crm_rpluserp_v9 - copy/doc/log
+8:55:59 : Log folder cleanup started for : g:/ram/projects/websites/crm_rpluserp_v9 - copy/doc/log/deleteddata/deliverychallan
+8:55:59 : Log Folder cleanup completed for : g:/ram/projects/websites/crm_rpluserp_v9 - copy/doc/log/deleteddata/deliverychallan
+8:55:59 : Log folder cleanup started for : g:/ram/projects/websites/crm_rpluserp_v9 - copy/doc/log/deleteddata/submenu
+8:55:59 : Log Folder cleanup completed for : g:/ram/projects/websites/crm_rpluserp_v9 - copy/doc/log/deleteddata/submenu
+8:55:59 : Log folder cleanup started for : g:/ram/projects/websites/crm_rpluserp_v9 - copy/doc/log/deleteddata/vendorquoterequest
+8:55:59 : Log Folder cleanup completed for : g:/ram/projects/websites/crm_rpluserp_v9 - copy/doc/log/deleteddata/vendorquoterequest
+8:55:59 : Log folder cleanup started for : g:/ram/projects/websites/crm_rpluserp_v9_2_7_24/doc/log
+8:55:59 : Log Folder cleanup completed for : g:/ram/projects/websites/crm_rpluserp_v9_2_7_24/doc/log
+8:55:59 : Log folder cleanup started for : g:/ram/projects/websites/crm_rpluserp_v9_old/doc/log
+8:56:1 : Log Folder cleanup completed for : g:/ram/projects/websites/crm_rpluserp_v9_old/doc/log
+8:56:1 : Log folder cleanup started for : g:/ram/projects/websites/rpluscrmwebapi/rpluscrmwebapi/doc/log
+8:56:1 : Log Folder cleanup completed for : g:/ram/projects/websites/rpluscrmwebapi/rpluscrmwebapi/doc/log
+8:56:1 : Log folder cleanup started for : g:/ram/projects/websites/rpluscrmwebsite/doc/log
+8:56:1 : Log Folder cleanup completed for : g:/ram/projects/websites/rpluscrmwebsite/doc/log
+8:56:1 : Log folder cleanup started for : g:/ram/projects/websites/rpluscrmwebsite1/doc/log
+8:56:1 : Log Folder cleanup completed for : g:/ram/projects/websites/rpluscrmwebsite1/doc/log
+8:56:1 : Log folder cleanup started for : g:/ram/projects/websites/rpluscrmwebsite1/doc/log/email
+8:56:1 : Log Folder cleanup completed for : g:/ram/projects/websites/rpluscrmwebsite1/doc/log/email
+8:56:1 : Log folder cleanup started for : g:/ram/projects/websites/rpluspos_v8/doc/log
+8:56:1 : Log Folder cleanup completed for : g:/ram/projects/websites/rpluspos_v8/doc/log
+8:56:1 : Log folder cleanup started for : g:/ram/projects/websites/vaikundar_v8/doc/log
+8:56:1 : Log Folder cleanup completed for : g:/ram/projects/websites/vaikundar_v8/doc/log
+8:56:1 : Temp folder cleanup completed
+8:56:1 : Scheduler Completed
+8:57:48 : Temp folder cleanup started
+8:57:52 : Temp folder cleanup completed
+8:57:52 : Scheduler Completed
+8:58:39 : Temp folder cleanup started
+8:59:26 : Updatelog folder cleanup started for : g:/ram/projects/websites/aeaircon_v8/upload/child/updatelog/log
+8:59:26 : Updatelog Folder cleanup completed for : g:/ram/projects/websites/aeaircon_v8/upload/child/updatelog/log
+8:59:26 : Updatelog folder cleanup started for : g:/ram/projects/websites/aeaircon_v8/upload/signellent_live/updatelog/log
+8:59:26 : Updatelog Folder cleanup completed for : g:/ram/projects/websites/aeaircon_v8/upload/signellent_live/updatelog/log
+8:59:26 : Updatelog folder cleanup started for : g:/ram/projects/websites/aeaircon_v8/upload/updatelog/log
+8:59:26 : Updatelog Folder cleanup completed for : g:/ram/projects/websites/aeaircon_v8/upload/updatelog/log
+8:59:26 : Updatelog folder cleanup started for : g:/ram/projects/websites/aeaircon_v8/upload/vservinfosystems_live/updatelog/log
+8:59:26 : Updatelog Folder cleanup completed for : g:/ram/projects/websites/aeaircon_v8/upload/vservinfosystems_live/updatelog/log
+8:59:26 : Updatelog folder cleanup started for : g:/ram/projects/websites/amc_bepure/upload/updatelog/log
+8:59:26 : Updatelog Folder cleanup completed for : g:/ram/projects/websites/amc_bepure/upload/updatelog/log
+8:59:26 : Updatelog folder cleanup started for : g:/ram/projects/websites/amc_crystaldiagnovision/upload/updatelog/log
+8:59:26 : Updatelog Folder cleanup completed for : g:/ram/projects/websites/amc_crystaldiagnovision/upload/updatelog/log
+8:59:26 : Updatelog folder cleanup started for : g:/ram/projects/websites/amc_hitech/upload/updatelog/log
+8:59:26 : Updatelog Folder cleanup completed for : g:/ram/projects/websites/amc_hitech/upload/updatelog/log
+8:59:27 : Updatelog folder cleanup started for : g:/ram/projects/websites/backup/crm_rpluserp_v9_15_4_23/upload/updatelog/log
+8:59:27 : Updatelog Folder cleanup completed for : g:/ram/projects/websites/backup/crm_rpluserp_v9_15_4_23/upload/updatelog/log
+8:59:27 : Updatelog folder cleanup started for : g:/ram/projects/websites/backup/crm_rpluserp_v9_19_9_23/upload/updatelog/log
+8:59:27 : Updatelog Folder cleanup completed for : g:/ram/projects/websites/backup/crm_rpluserp_v9_19_9_23/upload/updatelog/log
+8:59:27 : Updatelog folder cleanup started for : g:/ram/projects/websites/backup/goaltime_v8_11_5_22/upload/updatelog/log
+8:59:27 : Updatelog Folder cleanup completed for : g:/ram/projects/websites/backup/goaltime_v8_11_5_22/upload/updatelog/log
+8:59:27 : Updatelog folder cleanup started for : g:/ram/projects/websites/crm_intertradeautomation/upload/updatelog/log
+8:59:27 : Updatelog Folder cleanup completed for : g:/ram/projects/websites/crm_intertradeautomation/upload/updatelog/log
+8:59:27 : Updatelog folder cleanup started for : g:/ram/projects/websites/crm_rpluserp_v8/upload/updatelog/log
+8:59:27 : Updatelog Folder cleanup completed for : g:/ram/projects/websites/crm_rpluserp_v8/upload/updatelog/log
+8:59:27 : Updatelog folder cleanup started for : g:/ram/projects/websites/goaltime_v8/upload/updatelog/log
+8:59:27 : Updatelog Folder cleanup completed for : g:/ram/projects/websites/goaltime_v8/upload/updatelog/log
+8:59:27 : Updatelog folder cleanup started for : g:/ram/projects/websites/paramountsystems.rpluscrm.com/upload/updatelog/log
+8:59:28 : Updatelog Folder cleanup completed for : g:/ram/projects/websites/paramountsystems.rpluscrm.com/upload/updatelog/log
+8:59:28 : Updatelog folder cleanup started for : g:/ram/projects/websites/rpluscrm_alakrity_v8/upload/child/updatelog/log
+8:59:28 : Updatelog Folder cleanup completed for : g:/ram/projects/websites/rpluscrm_alakrity_v8/upload/child/updatelog/log
+8:59:28 : Updatelog folder cleanup started for : g:/ram/projects/websites/rpluscrm_alakrity_v8/upload/signellent_live/updatelog/log
+8:59:28 : Updatelog Folder cleanup completed for : g:/ram/projects/websites/rpluscrm_alakrity_v8/upload/signellent_live/updatelog/log
+8:59:28 : Updatelog folder cleanup started for : g:/ram/projects/websites/rpluscrm_alakrity_v8/upload/updatelog/log
+8:59:28 : Updatelog Folder cleanup completed for : g:/ram/projects/websites/rpluscrm_alakrity_v8/upload/updatelog/log
+8:59:28 : Updatelog folder cleanup started for : g:/ram/projects/websites/rpluscrm_alakrity_v8/upload/vservinfosystems_live/updatelog/log
+8:59:28 : Updatelog Folder cleanup completed for : g:/ram/projects/websites/rpluscrm_alakrity_v8/upload/vservinfosystems_live/updatelog/log
+8:59:28 : Updatelog folder cleanup started for : g:/ram/projects/websites/rpluspos_v8/upload/updatelog/log
+8:59:28 : Updatelog Folder cleanup completed for : g:/ram/projects/websites/rpluspos_v8/upload/updatelog/log
+8:59:28 : Temp folder cleanup completed
+8:59:28 : Scheduler Completed
+14:11:22 : Scheduler Completed
+14:29:52 : updatedocstoragesize start
+14:30:2 : updatedocstoragesize end
+14:47:54 : updatedocstoragesize start

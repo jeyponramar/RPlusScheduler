@@ -1,0 +1,25 @@
+
+15:47:39 : IndiaMartError:https://mapi.indiamart.com/wservce/enquiry/listing/GLUSR_MOBILE/7042445112/GLUSR_MOBILE_KEY/MTYzODI3MDU2OS42OTc2IzMxNjk3Nzc=/Start_Time//End_Time//
+Invalid column name 'city_cistyname'.
+15:48:51 : IndiaMartError:https://mapi.indiamart.com/wservce/enquiry/listing/GLUSR_MOBILE/7042445112/GLUSR_MOBILE_KEY/MTYzODI3MDU2OS42OTc2IzMxNjk3Nzc=/Start_Time//End_Time//
+Invalid column name 'city_cistyname'.
+15:49:56 : IndiaMartError:https://mapi.indiamart.com/wservce/enquiry/listing/GLUSR_MOBILE/7042445112/GLUSR_MOBILE_KEY/MTYzODI3MDU2OS42OTc2IzMxNjk3Nzc=/Start_Time//End_Time//
+Object reference not set to an instance of an object.
+15:50:46 : IndiaMartError:https://mapi.indiamart.com/wservce/enquiry/listing/GLUSR_MOBILE/7042445112/GLUSR_MOBILE_KEY/MTYzODI3MDU2OS42OTc2IzMxNjk3Nzc=/Start_Time//End_Time//
+Object reference not set to an instance of an object.
+17:36:57 : IndiaMartError:https://mapi.indiamart.com/wservce/enquiry/listing/GLUSR_MOBILE/7042445112/GLUSR_MOBILE_KEY/MTYzODI3MDU2OS42OTc2IzMxNjk3Nzc=/Start_Time/15-May-2022 12:00:01 AM/End_Time/15-Jun-2022 05:36:55 PM/
+The underlying connection was closed: An unexpected error occurred on a send.
+19:27:50 : IndiaMartError:https://mapi.indiamart.com/wservce/enquiry/listing/GLUSR_MOBILE/7042445112/GLUSR_MOBILE_KEY/MTYzODI3MDU2OS42OTc2IzMxNjk3Nzc=/Start_Time/15-May-2022 12:00:01 AM/End_Time/15-Jun-2022 07:27:07 PM/
+Object reference not set to an instance of an object.
+20:29:7 : IndiaMartError:https://mapi.indiamart.com/wservce/enquiry/listing/GLUSR_MOBILE/7042445112/GLUSR_MOBILE_KEY/MTYzODI3MDU2OS42OTc2IzMxNjk3Nzc=/Start_Time/15-Jun-2022 08:02:24 PM/End_Time/15-Jun-2022 08:29:00 PM/
+[
+    {
+        "Error_Message": "There are no leads in the given time duration.please try for a different duration."
+    }
+]
+20:43:20 : IndiaMartError:https://mapi.indiamart.com/wservce/enquiry/listing/GLUSR_MOBILE/7042445112/GLUSR_MOBILE_KEY/MTYzODI3MDU2OS42OTc2IzMxNjk3Nzc=/Start_Time/15-May-2022 12:00:01 AM/End_Time/15-Jun-2022 08:43:17 PM/
+[
+    {
+        "Error_Message": "It is advised to hit this API once in every 5 minutes,but it seems that you have crossed this limit. please try again after 5 minutes."
+    }
+]

@@ -1,0 +1,7 @@
+
+8:54:33 : Cannot open database "RPlusCRM_Master_V8" requested by the login. The login failed.
+Login failed for user 'DESKTOP-MPA04LP\ADMIN'.
+select * from tbl_company where company_isactive=1 and isnull(company_url,'')<>'' and company_enddate>getdate() 
+8:55:54 : Cannot open database "RPlusCRM_Master_V8" requested by the login. The login failed.
+Login failed for user 'DESKTOP-MPA04LP\ADMIN'.
+select * from tbl_company where company_isactive=1 and isnull(company_url,'')<>'' and company_enddate>getdate() 

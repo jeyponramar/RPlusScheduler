@@ -1,0 +1,15 @@
+
+6:37:40 : IndiaMartAPI Started
+6:40:0 : IndiaMartAPI Started
+6:43:30 : IndiaMartAPI Started
+6:46:53 : IndiaMartAPI Started
+6:47:3 : IndiaMartAPI Error Inner Loop : 2168257573:String was not recognized as a valid DateTime.
+6:47:27 : IndiaMartAPI Error Inner Loop : 487760660:String was not recognized as a valid DateTime.
+6:49:46 : IndiaMartAPI Started
+6:54:19 : IndiaMartAPI Started
+6:55:4 : IndiaMartAPI Started
+6:59:18 : IndiaMartAPI Started
+7:4:57 : IndiaMartAPI Started
+7:6:52 : IndiaMartAPI Started
+7:7:36 : IndiaMartAPI Started
+7:8:20 : IndiaMartAPI Started

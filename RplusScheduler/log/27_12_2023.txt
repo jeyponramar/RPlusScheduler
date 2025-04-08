@@ -1,0 +1,25 @@
+
+8:21:6 : System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at RplusScheduler.OutlookIntegration.GetClientEmailCode() in G:\Ram\Projects\Windows\RplusScheduler\RplusScheduler\OutlookIntegration.cs:line 342
+   at RplusScheduler.OutlookIntegration.ReadEmail() in G:\Ram\Projects\Windows\RplusScheduler\RplusScheduler\OutlookIntegration.cs:line 217
+8:21:8 : System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at RplusScheduler.OutlookIntegration.GetClientEmailCode() in G:\Ram\Projects\Windows\RplusScheduler\RplusScheduler\OutlookIntegration.cs:line 342
+   at RplusScheduler.OutlookIntegration.ReadEmail() in G:\Ram\Projects\Windows\RplusScheduler\RplusScheduler\OutlookIntegration.cs:line 217
+8:21:59 : System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at RplusScheduler.OutlookIntegration.GetClientEmailCode() in G:\Ram\Projects\Windows\RplusScheduler\RplusScheduler\OutlookIntegration.cs:line 342
+   at RplusScheduler.OutlookIntegration.ReadEmail() in G:\Ram\Projects\Windows\RplusScheduler\RplusScheduler\OutlookIntegration.cs:line 217
+8:22:1 : System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at RplusScheduler.OutlookIntegration.GetClientEmailCode() in G:\Ram\Projects\Windows\RplusScheduler\RplusScheduler\OutlookIntegration.cs:line 342
+   at RplusScheduler.OutlookIntegration.ReadEmail() in G:\Ram\Projects\Windows\RplusScheduler\RplusScheduler\OutlookIntegration.cs:line 217

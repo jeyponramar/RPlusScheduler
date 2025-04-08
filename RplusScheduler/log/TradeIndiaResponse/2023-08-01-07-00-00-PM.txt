@@ -1,0 +1,30 @@
+[
+   {
+      "sender_city" : "New Delhi",
+      "view_status" : "READ",
+      "sender_country" : "India",
+      "sender_name" : "Phone Inquiry",
+      "receiver_mobile" : "+918037746577",
+      "sender_uid" : 5794606,
+      "sender_email" : "noreply@noreply.tradeindia.com",
+      "sender_co" : "Phone Inquiry from Tradeindia.com",
+      "source" : "MOBILE_TRACKING",
+      "month_slot" : "Jul - 2023",
+      "subject" : "Looking for suppliers of auto level",
+      "sender_state" : "Delhi",
+      "generated_date" : "31 July 2023",
+      "receiver_uid" : 1764716,
+      "sender_mobile" : "+917889703576",
+      "address" : "A/86, Okhla Phase 2",
+      "message" : "Dear Mr Manoj Tembe, There is an inquiry regarding products auto level. Below is the details of Buyer:     Mobile - <a href=\"tel:+917889703576\">+917889703576</a>",
+      "landline_number" : "+911146710500",
+      "inquiry_type" : "UNMODERATED",
+      "generated" : 1690811160,
+      "generated_time" : "19:16:00",
+      "receiver_name" : "Mr Manoj Tembe",
+      "ago_time" : "  2 days ",
+      "rfi_id" : "584928007",
+      "sender" : "Client",
+      "receiver_co" : "LEELAVATI AUTOMATION PVT. LTD."
+   }
+]

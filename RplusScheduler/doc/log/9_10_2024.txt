@@ -1,0 +1,175 @@
+
+17:20:38 :	:, RunGenerateExpenseScheduler: no data found: rpluscrm_master_v8
+17:20:40 :	:, EscalationScheduler:RunScheduler : Started for rpluscrm_master_v8
+17:20:40 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+17:20:40 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+17:20:40 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+17:20:40 :	:, EscalationScheduler:RunScheduler : Completed for rpluscrm_master_v8
+17:20:48 :	:, ScheduleReminderScheduler: started for rpluscrm_master_v8
+17:20:53 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :1
+17:21:15 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :2
+17:21:17 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :3
+17:22:54 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :4
+17:22:55 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :5
+17:30:59 :	:, RunGenerateExpenseScheduler: no data found: rpluscrm_master_v8
+17:30:59 :	:, EscalationScheduler:RunScheduler : Started for rpluscrm_master_v8
+17:30:59 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+17:30:59 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+17:30:59 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+17:30:59 :	:, EscalationScheduler:RunScheduler : Completed for rpluscrm_master_v8
+17:31:8 :	:, ScheduleReminderScheduler: started for rpluscrm_master_v8
+17:31:8 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Followup Reminder to Client
+17:31:8 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Followup Remidner to Sales Person
+17:31:8 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Birthday Wish to Contact
+17:31:8 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Wedding Anniversary to Contact
+17:31:8 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Work Anniversary to Employee
+17:31:48 :	:, ScheduleReminderScheduler failed for schedulereminderconfigid: 5; Object reference not set to an instance of an object.
+17:31:48 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Followup Meeting Reminder to Client
+17:31:48 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Followup Demo Reminder to Client
+17:31:48 :	:, ScheduleReminderScheduler: completed for rpluscrm_master_v8
+17:31:48 :	:, RunGenerateExpenseScheduler: no data found: Child
+17:31:48 :	:, EscalationScheduler:RunScheduler : Started for Child
+17:31:48 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+17:31:48 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+17:31:48 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+17:31:48 :	:, EscalationScheduler:RunScheduler : Completed for Child
+17:32:21 :	:, RunGenerateExpenseScheduler: no data found: rpluscrm_master_v8
+17:32:21 :	:, EscalationScheduler:RunScheduler : Started for rpluscrm_master_v8
+17:32:21 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+17:32:21 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+17:32:21 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+17:32:21 :	:, EscalationScheduler:RunScheduler : Completed for rpluscrm_master_v8
+17:32:31 :	:, ScheduleReminderScheduler: started for rpluscrm_master_v8
+17:32:31 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Followup Reminder to Client
+17:32:31 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Followup Remidner to Sales Person
+17:32:31 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Birthday Wish to Contact
+17:32:31 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Wedding Anniversary to Contact
+17:32:31 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Work Anniversary to Employee
+17:32:51 :	:, ScheduleReminderScheduler failed for schedulereminderconfigid: 5; Object reference not set to an instance of an object.
+17:32:51 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Followup Meeting Reminder to Client
+17:32:51 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Followup Demo Reminder to Client
+17:32:51 :	:, ScheduleReminderScheduler: completed for rpluscrm_master_v8
+17:32:51 :	:, RunGenerateExpenseScheduler: no data found: Child
+17:32:51 :	:, EscalationScheduler:RunScheduler : Started for Child
+17:32:51 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+17:32:51 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+17:32:51 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+17:32:51 :	:, EscalationScheduler:RunScheduler : Completed for Child
+17:32:51 :	:, ScheduleReminderScheduler: started for Child
+17:32:51 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Followup Reminder to Client
+17:32:51 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Followup Remidner to Sales Person
+17:32:51 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Birthday Wish to Contact
+17:32:51 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Wedding Anniversary to Contact
+17:32:51 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Work Anniversary to Employee
+17:34:8 :	:, RunGenerateExpenseScheduler: no data found: rpluscrm_master_v8
+17:34:8 :	:, EscalationScheduler:RunScheduler : Started for rpluscrm_master_v8
+17:34:8 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+17:34:8 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+17:34:8 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+17:34:8 :	:, EscalationScheduler:RunScheduler : Completed for rpluscrm_master_v8
+17:34:8 :	:, ScheduleReminderScheduler: started for rpluscrm_master_v8
+17:34:8 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Followup Reminder to Client
+17:34:8 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Followup Remidner to Sales Person
+17:34:8 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Birthday Wish to Contact
+17:34:8 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Wedding Anniversary to Contact
+17:34:8 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Work Anniversary to Employee
+17:34:38 :	:, ScheduleReminderScheduler failed for schedulereminderconfigid: 5; Object reference not set to an instance of an object.
+17:34:38 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Followup Meeting Reminder to Client
+17:34:38 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Followup Demo Reminder to Client
+17:34:38 :	:, ScheduleReminderScheduler: completed for rpluscrm_master_v8
+17:34:38 :	:, RunGenerateExpenseScheduler: no data found: Child
+17:34:38 :	:, EscalationScheduler:RunScheduler : Started for Child
+17:34:38 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+17:34:38 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+17:34:38 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+17:34:38 :	:, EscalationScheduler:RunScheduler : Completed for Child
+17:34:38 :	:, ScheduleReminderScheduler: started for Child
+17:34:38 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Followup Reminder to Client
+17:34:38 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Followup Remidner to Sales Person
+17:34:38 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Birthday Wish to Contact
+17:34:38 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Wedding Anniversary to Contact
+17:34:38 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Work Anniversary to Employee
+17:34:43 :	:, ScheduleReminderScheduler failed for schedulereminderconfigid: 5; Object reference not set to an instance of an object.
+17:34:43 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Followup Meeting Reminder to Client
+17:34:43 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Followup Demo Reminder to Client
+17:34:43 :	:, ScheduleReminderScheduler: completed for Child
+17:35:2 :	:, RunGenerateExpenseScheduler: no data found: rpluscrm_master_v8
+17:35:2 :	:, EscalationScheduler:RunScheduler : Started for rpluscrm_master_v8
+17:35:3 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+17:35:3 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+17:35:3 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+17:35:3 :	:, EscalationScheduler:RunScheduler : Completed for rpluscrm_master_v8
+17:35:3 :	:, ScheduleReminderScheduler: started for rpluscrm_master_v8
+17:35:3 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Followup Reminder to Client
+17:35:3 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Followup Remidner to Sales Person
+17:35:3 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Birthday Wish to Contact
+17:35:3 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Wedding Anniversary to Contact
+17:35:3 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Work Anniversary to Employee
+17:35:59 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig end :Work Anniversary to Employee
+17:35:59 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Followup Meeting Reminder to Client
+17:35:59 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Followup Demo Reminder to Client
+17:35:59 :	:, ScheduleReminderScheduler: completed for rpluscrm_master_v8
+17:35:59 :	:, RunGenerateExpenseScheduler: no data found: Child
+17:35:59 :	:, EscalationScheduler:RunScheduler : Started for Child
+17:35:59 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+17:35:59 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+17:35:59 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+17:35:59 :	:, EscalationScheduler:RunScheduler : Completed for Child
+17:35:59 :	:, ScheduleReminderScheduler: started for Child
+17:35:59 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Followup Reminder to Client
+17:35:59 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Followup Remidner to Sales Person
+17:35:59 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Birthday Wish to Contact
+17:35:59 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Wedding Anniversary to Contact
+17:35:59 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Work Anniversary to Employee
+17:36:53 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig end :Work Anniversary to Employee
+17:36:53 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Followup Meeting Reminder to Client
+17:36:53 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Followup Demo Reminder to Client
+17:36:53 :	:, ScheduleReminderScheduler: completed for Child
+17:36:58 :	:, RunGenerateExpenseScheduler: no data found: rpluscrm_master_v8
+17:36:58 :	:, EscalationScheduler:RunScheduler : Started for rpluscrm_master_v8
+17:36:59 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+17:36:59 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+17:36:59 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+17:36:59 :	:, EscalationScheduler:RunScheduler : Completed for rpluscrm_master_v8
+17:36:59 :	:, ScheduleReminderScheduler: started for rpluscrm_master_v8
+17:36:59 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Followup Reminder to Client
+17:36:59 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Followup Remidner to Sales Person
+17:36:59 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Birthday Wish to Contact
+17:36:59 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Wedding Anniversary to Contact
+17:36:59 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Work Anniversary to Employee
+17:55:33 :	:, RunGenerateExpenseScheduler: no data found: rpluscrm_master_v8
+17:55:33 :	:, EscalationScheduler:RunScheduler : Started for rpluscrm_master_v8
+17:55:33 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+17:55:33 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+17:55:33 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+17:55:33 :	:, EscalationScheduler:RunScheduler : Completed for rpluscrm_master_v8
+17:55:33 :	:, ScheduleReminderScheduler: started for rpluscrm_master_v8
+17:55:33 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Followup Reminder to Client
+17:55:33 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Followup Remidner to Sales Person
+17:55:33 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Birthday Wish to Contact
+17:55:33 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Wedding Anniversary to Contact
+17:55:33 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Work Anniversary to Employee
+17:56:41 :	:, RunGenerateExpenseScheduler: no data found: rpluscrm_master_v8
+17:56:41 :	:, EscalationScheduler:RunScheduler : Started for rpluscrm_master_v8
+17:56:41 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+17:56:41 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+17:56:41 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+17:56:41 :	:, EscalationScheduler:RunScheduler : Completed for rpluscrm_master_v8
+17:56:41 :	:, ScheduleReminderScheduler: started for rpluscrm_master_v8
+17:56:41 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Followup Reminder to Client
+17:56:41 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Followup Remidner to Sales Person
+17:56:41 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Birthday Wish to Contact
+17:56:41 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Wedding Anniversary to Contact
+17:56:41 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Work Anniversary to Employee
+18:9:48 :	:, RunGenerateExpenseScheduler: no data found: rpluscrm_master_v8
+18:9:48 :	:, EscalationScheduler:RunScheduler : Started for rpluscrm_master_v8
+18:9:48 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+18:9:48 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+18:9:48 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+18:9:48 :	:, EscalationScheduler:RunScheduler : Completed for rpluscrm_master_v8
+18:9:48 :	:, ScheduleReminderScheduler: started for rpluscrm_master_v8
+18:9:48 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Followup Reminder to Client
+18:9:48 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Followup Remidner to Sales Person
+18:9:48 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Birthday Wish to Contact
+18:9:48 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Wedding Anniversary to Contact
+18:9:48 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Work Anniversary to Employee

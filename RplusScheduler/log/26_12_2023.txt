@@ -1,0 +1,41 @@
+
+17:39:37 : System.ArgumentOutOfRangeException: Length cannot be less than zero.
+Parameter name: length
+   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   at RplusScheduler.OutlookIntegration.GetEmailUniqueId(String body) in G:\Ram\Projects\Windows\RplusScheduler\RplusScheduler\OutlookIntegration.cs:line 301
+   at RplusScheduler.OutlookIntegration.ReadEmail() in G:\Ram\Projects\Windows\RplusScheduler\RplusScheduler\OutlookIntegration.cs:line 192
+17:39:39 : System.ArgumentOutOfRangeException: Length cannot be less than zero.
+Parameter name: length
+   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   at RplusScheduler.OutlookIntegration.GetEmailUniqueId(String body) in G:\Ram\Projects\Windows\RplusScheduler\RplusScheduler\OutlookIntegration.cs:line 301
+   at RplusScheduler.OutlookIntegration.ReadEmail() in G:\Ram\Projects\Windows\RplusScheduler\RplusScheduler\OutlookIntegration.cs:line 192
+17:40:37 : System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: startIndex
+   at System.Globalization.CompareInfo.IndexOf(String source, String value, Int32 startIndex, Int32 count, CompareOptions options)
+   at System.Globalization.CompareInfo.IndexOf(String source, String value, Int32 startIndex)
+   at RplusScheduler.OutlookIntegration.GetEmailUniqueId(String body) in G:\Ram\Projects\Windows\RplusScheduler\RplusScheduler\OutlookIntegration.cs:line 300
+   at RplusScheduler.OutlookIntegration.ReadEmail() in G:\Ram\Projects\Windows\RplusScheduler\RplusScheduler\OutlookIntegration.cs:line 192
+17:47:16 : System.ArgumentOutOfRangeException: Length cannot be less than zero.
+Parameter name: length
+   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   at RplusScheduler.OutlookIntegration.GetEmailUniqueId(String body) in G:\Ram\Projects\Windows\RplusScheduler\RplusScheduler\OutlookIntegration.cs:line 301
+   at RplusScheduler.OutlookIntegration.ReadEmail() in G:\Ram\Projects\Windows\RplusScheduler\RplusScheduler\OutlookIntegration.cs:line 192
+17:47:53 : System.ArgumentOutOfRangeException: Length cannot be less than zero.
+Parameter name: length
+   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   at RplusScheduler.OutlookIntegration.GetEmailUniqueId(String body) in G:\Ram\Projects\Windows\RplusScheduler\RplusScheduler\OutlookIntegration.cs:line 301
+   at RplusScheduler.OutlookIntegration.ReadEmail() in G:\Ram\Projects\Windows\RplusScheduler\RplusScheduler\OutlookIntegration.cs:line 192
+17:48:10 : System.ArgumentOutOfRangeException: Length cannot be less than zero.
+Parameter name: length
+   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   at RplusScheduler.OutlookIntegration.GetEmailUniqueId(String body) in G:\Ram\Projects\Windows\RplusScheduler\RplusScheduler\OutlookIntegration.cs:line 301
+   at RplusScheduler.OutlookIntegration.ReadEmail() in G:\Ram\Projects\Windows\RplusScheduler\RplusScheduler\OutlookIntegration.cs:line 192
+17:48:13 : System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: startIndex
+   at System.Globalization.CompareInfo.IndexOf(String source, String value, Int32 startIndex, Int32 count, CompareOptions options)
+   at System.Globalization.CompareInfo.IndexOf(String source, String value, Int32 startIndex)
+   at RplusScheduler.OutlookIntegration.GetEmailUniqueId(String body) in G:\Ram\Projects\Windows\RplusScheduler\RplusScheduler\OutlookIntegration.cs:line 300
+   at RplusScheduler.OutlookIntegration.ReadEmail() in G:\Ram\Projects\Windows\RplusScheduler\RplusScheduler\OutlookIntegration.cs:line 192
+17:53:49 : Error ocuurred while creating clientemail;Re: test1
+17:54:0 : Error ocuurred while creating clientemail;Re: test1
+17:54:59 : Error ocuurred while creating clientemail;Hey, we need to talk about your career...

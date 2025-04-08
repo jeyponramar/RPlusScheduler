@@ -1,0 +1,50 @@
+
+0:6:25 : Invalid column name 'amc_domain'.
+select * from tbl_amc where isnull(amc_domain,'')<>'' and cast(getdate() as date) between cast(amc_startdate as date) and cast(amc_enddate as date)
+0:6:45 : Invalid column name 'amc_domain'.
+select * from tbl_amc where isnull(amc_domain,'')<>'' and cast(getdate() as date) between cast(amc_startdate as date) and cast(amc_enddate as date)
+0:6:55 : Invalid column name 'amc_domain'.
+select * from tbl_amc where isnull(amc_domain,'')<>'' and cast(getdate() as date) between cast(amc_startdate as date) and cast(amc_enddate as date)
+0:7:25 : Invalid column name 'amc_domain'.
+select * from tbl_amc where isnull(amc_domain,'')<>'' and cast(getdate() as date) between cast(amc_startdate as date) and cast(amc_enddate as date)
+0:8:32 : Invalid column name 'amc_domain'.
+select * from tbl_amc where isnull(amc_domain,'')<>'' and cast(getdate() as date) between cast(amc_startdate as date) and cast(amc_enddate as date)
+0:9:5 : Invalid column name 'amc_domain'.
+select * from tbl_amc where isnull(amc_domain,'')<>'' and cast(getdate() as date) between cast(amc_startdate as date) and cast(amc_enddate as date)
+0:9:14 : Invalid column name 'amc_domain'.
+select * from tbl_amc where isnull(amc_domain,'')<>'' and cast(getdate() as date) between cast(amc_startdate as date) and cast(amc_enddate as date)
+7:40:10 : The remote server returned an error: (404) Not Found.
+7:53:8 : The remote server returned an error: (404) Not Found.
+7:53:10 : The remote server returned an error: (404) Not Found.
+7:53:19 : The remote server returned an error: (404) Not Found.
+7:53:29 : The remote server returned an error: (404) Not Found.
+7:53:39 : The remote server returned an error: (404) Not Found.
+7:53:49 : The remote server returned an error: (404) Not Found.
+7:53:59 : The remote server returned an error: (404) Not Found.
+7:54:9 : The remote server returned an error: (404) Not Found.
+7:54:19 : The remote server returned an error: (404) Not Found.
+7:54:29 : The remote server returned an error: (404) Not Found.
+7:54:39 : The remote server returned an error: (404) Not Found.
+7:54:49 : The remote server returned an error: (404) Not Found.
+7:54:59 : The remote server returned an error: (404) Not Found.
+7:55:11 : The remote server returned an error: (404) Not Found.
+7:55:19 : The remote server returned an error: (404) Not Found.
+7:55:29 : The remote server returned an error: (404) Not Found.
+7:55:39 : The remote server returned an error: (404) Not Found.
+7:55:49 : The remote server returned an error: (404) Not Found.
+7:56:18 : The remote server returned an error: (404) Not Found.
+7:56:19 : The remote server returned an error: (404) Not Found.
+7:56:21 : The remote server returned an error: (404) Not Found.
+7:56:30 : The remote server returned an error: (404) Not Found.
+7:56:39 : The remote server returned an error: (404) Not Found.
+7:56:59 : The remote server returned an error: (404) Not Found.
+8:1:37 : 
+8:1:41 : 
+8:1:44 : 
+8:1:54 : 
+8:2:4 : 
+8:2:38 : 
+8:2:38 : 
+8:4:11 : 
+8:4:12 : 
+8:4:14 : 

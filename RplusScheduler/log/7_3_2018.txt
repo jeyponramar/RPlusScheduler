@@ -1,0 +1,5 @@
+
+8:52:17 : Cannot open database "RPlusCRM_Master" requested by the login. The login failed.
+Login failed for user 'Toshiba-Demo\Admin'.
+select * from tbl_company where company_isactive=1 and isnull(company_url,'')<>'' and company_enddate>getdate() and company_isschedule=1
+8:59:9 : http://ram.rpluscrm.in/RplusSchedulerHandler.ashx?sd=ram:The remote server returned an error: (500) Internal Server Error.

@@ -1,0 +1,43 @@
+
+6:33:10 : Run create table columns started for child
+6:33:42 : Run create table columns started for child
+6:34:44 : Run create table columns started for child
+6:36:5 : Run create table columns completed for child
+6:39:53 : Run create table columns started for child
+6:42:43 : Run create table columns completed for child
+6:46:47 : Run create table columns started for child
+6:47:21 : Run create table columns completed for child
+6:53:11 : Run create table columns started for child
+6:53:11 : Run create table columns completed for child
+6:53:54 : Run create table columns started for child
+6:53:54 : Run create table columns completed for child
+7:7:10 : Run create table columns started for child
+7:7:10 : Run create table columns completed for child
+7:7:51 : Run create table columns started for child
+7:7:51 : Run create table columns completed for child
+7:8:23 : Run create table columns started for child
+7:9:33 : Run create table columns completed for child
+7:10:27 : Run create table columns started for child
+7:10:55 : Run create table columns completed for child
+7:11:40 : Run create table columns started for child
+7:12:23 : Run create table columns completed for child
+7:12:57 : Run create table columns started for child
+7:16:30 : Run common script started for child
+7:16:30 : Run common script completed for child
+7:16:36 : Run create table columns started for child
+7:16:56 : Run create table columns completed for child
+7:17:5 : Run create table columns started for child
+7:17:7 : Run create table columns completed for child
+18:15:41 : Run create table columns started for child
+18:15:42 : Run create table columns completed for child
+18:16:13 : Run create table columns started for child
+18:16:14 : Run create table columns completed for child
+18:39:4 : Run create table columns started for child
+18:40:33 : Run create table columns started for child
+19:18:35 : Run create table columns started for child
+19:18:39 : Run create table columns completed for child
+21:8:46 : Run create table columns started for child
+21:11:10 : Run create table columns started for child
+21:15:23 : Run create table columns started for child
+21:18:27 : Run create table columns started for child
+21:18:44 : Run create table columns completed for child

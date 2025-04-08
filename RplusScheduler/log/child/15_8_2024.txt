@@ -1,0 +1,7 @@
+
+9:28:28 : Run create table columns started for child
+9:28:28 : Run create table columns completed for child
+9:54:50 : Run create table columns started for child
+9:55:11 : Run create table columns completed for child
+11:7:56 : Run create table columns started for child
+11:7:57 : Run create table columns completed for child
