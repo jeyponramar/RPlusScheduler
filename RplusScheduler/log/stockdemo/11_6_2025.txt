@@ -1,0 +1,5 @@
+
+19:2:50 : Run sync company columns started for stockdemo
+19:2:51 : Run sync company columns completed for stockdemo
+19:5:18 : Run create table columns started for stockdemo
+19:5:19 : Run create table columns completed for stockdemo

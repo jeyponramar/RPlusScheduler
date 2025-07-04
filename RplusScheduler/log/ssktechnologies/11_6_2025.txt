@@ -1,0 +1,5 @@
+
+19:2:47 : Run sync company columns started for ssktechnologies
+19:2:48 : Run sync company columns completed for ssktechnologies
+19:4:56 : Run create table columns started for ssktechnologies
+19:4:58 : Run create table columns completed for ssktechnologies

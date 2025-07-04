@@ -1,0 +1,5 @@
+
+19:2:49 : Run sync company columns started for detaileddemo
+19:2:49 : Run sync company columns completed for detaileddemo
+19:5:7 : Run create table columns started for detaileddemo
+19:5:9 : Run create table columns completed for detaileddemo

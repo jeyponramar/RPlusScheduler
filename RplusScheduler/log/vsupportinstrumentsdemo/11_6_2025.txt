@@ -1,0 +1,5 @@
+
+19:2:52 : Run sync company columns started for vsupportinstrumentsdemo
+19:2:52 : Run sync company columns completed for vsupportinstrumentsdemo
+19:5:27 : Run create table columns started for vsupportinstrumentsdemo
+19:5:29 : Run create table columns completed for vsupportinstrumentsdemo

@@ -1,0 +1,17 @@
+
+18:56:21 :	:, RunGenerateExpenseScheduler: no data found: ramindustries
+18:56:21 :	:, EscalationScheduler:RunScheduler : Started for ramindustries
+18:56:21 :	:, EscalationScheduler:RunScheduler : Completed for ramindustries
+18:56:22 :	:, ScheduleReminderScheduler: started for ramindustries
+18:56:22 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start : ramindustries;Owner Daily Summary Report - WhatsApp
+18:56:22 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig end : ramindustries;Owner Daily Summary Report - WhatsApp
+18:56:22 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start : ramindustries;Owner Weekly Summary Report - WhatsApp
+18:56:22 :	:, ScheduleReminderScheduler: completed for ramindustries
+19:22:49 :	:, RunGenerateExpenseScheduler: no data found: ramindustries
+19:22:49 :	:, EscalationScheduler:RunScheduler : Started for ramindustries
+19:22:50 :	:, EscalationScheduler:RunScheduler : Completed for ramindustries
+19:22:50 :	:, ScheduleReminderScheduler: started for ramindustries
+19:22:51 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start : ramindustries;Owner Daily Summary Report - WhatsApp
+19:22:51 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig end : ramindustries;Owner Daily Summary Report - WhatsApp
+19:22:51 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start : ramindustries;Owner Weekly Summary Report - WhatsApp
+19:22:51 :	:, ScheduleReminderScheduler: completed for ramindustries

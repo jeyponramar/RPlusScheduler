@@ -1,0 +1,5 @@
+
+19:2:54 : Run sync company columns started for safevisionsystemsdemo
+19:2:54 : Run sync company columns completed for safevisionsystemsdemo
+19:5:37 : Run create table columns started for safevisionsystemsdemo
+19:5:39 : Run create table columns completed for safevisionsystemsdemo

@@ -1,0 +1,5 @@
+
+19:2:53 : Run sync company columns started for deepinfotechdemo
+19:2:53 : Run sync company columns completed for deepinfotechdemo
+19:5:33 : Run create table columns started for deepinfotechdemo
+19:5:35 : Run create table columns completed for deepinfotechdemo

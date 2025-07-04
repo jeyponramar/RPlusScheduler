@@ -1,0 +1,17 @@
+
+18:56:23 :	:, RunGenerateExpenseScheduler: no data found: msj
+18:56:23 :	:, EscalationScheduler:RunScheduler : Started for msj
+18:56:23 :	:, EscalationScheduler:RunScheduler : Completed for msj
+18:56:24 :	:, ScheduleReminderScheduler: started for msj
+18:56:24 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start : msj;Owner Daily Summary Report - WhatsApp
+18:56:24 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig end : msj;Owner Daily Summary Report - WhatsApp
+18:56:24 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start : msj;Owner Weekly Summary Report - WhatsApp
+18:56:24 :	:, ScheduleReminderScheduler: completed for msj
+19:22:52 :	:, RunGenerateExpenseScheduler: no data found: msj
+19:22:52 :	:, EscalationScheduler:RunScheduler : Started for msj
+19:22:53 :	:, EscalationScheduler:RunScheduler : Completed for msj
+19:22:53 :	:, ScheduleReminderScheduler: started for msj
+19:22:53 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start : msj;Owner Daily Summary Report - WhatsApp
+19:22:53 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig end : msj;Owner Daily Summary Report - WhatsApp
+19:22:53 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start : msj;Owner Weekly Summary Report - WhatsApp
+19:22:53 :	:, ScheduleReminderScheduler: completed for msj

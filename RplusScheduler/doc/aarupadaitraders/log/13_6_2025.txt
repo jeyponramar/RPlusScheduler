@@ -1,0 +1,17 @@
+
+18:56:29 :	:, RunGenerateExpenseScheduler: no data found: aarupadaitraders
+18:56:29 :	:, EscalationScheduler:RunScheduler : Started for aarupadaitraders
+18:56:30 :	:, EscalationScheduler:RunScheduler : Completed for aarupadaitraders
+18:56:30 :	:, ScheduleReminderScheduler: started for aarupadaitraders
+18:56:30 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start : aarupadaitraders;Owner Daily Summary Report - WhatsApp
+18:56:30 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig end : aarupadaitraders;Owner Daily Summary Report - WhatsApp
+18:56:30 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start : aarupadaitraders;Owner Weekly Summary Report - WhatsApp
+18:56:30 :	:, ScheduleReminderScheduler: completed for aarupadaitraders
+19:23:1 :	:, RunGenerateExpenseScheduler: no data found: aarupadaitraders
+19:23:1 :	:, EscalationScheduler:RunScheduler : Started for aarupadaitraders
+19:23:2 :	:, EscalationScheduler:RunScheduler : Completed for aarupadaitraders
+19:23:2 :	:, ScheduleReminderScheduler: started for aarupadaitraders
+19:23:2 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start : aarupadaitraders;Owner Daily Summary Report - WhatsApp
+19:23:2 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig end : aarupadaitraders;Owner Daily Summary Report - WhatsApp
+19:23:2 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start : aarupadaitraders;Owner Weekly Summary Report - WhatsApp
+19:23:2 :	:, ScheduleReminderScheduler: completed for aarupadaitraders

@@ -1,0 +1,5 @@
+
+19:2:47 : Run sync company columns started for umademo
+19:2:47 : Run sync company columns completed for umademo
+19:4:54 : Run create table columns started for umademo
+19:4:56 : Run create table columns completed for umademo

@@ -1,0 +1,5 @@
+
+19:2:48 : Run sync company columns started for pcubeedemo
+19:2:48 : Run sync company columns completed for pcubeedemo
+19:5:0 : Run create table columns started for pcubeedemo
+19:5:2 : Run create table columns completed for pcubeedemo

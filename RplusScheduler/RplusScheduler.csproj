@@ -56,7 +56,7 @@
   <ItemGroup>
     <Reference Include="CPComponent V9.0, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\Component\CPComponent V9.0\bin\Release\CPComponent V9.0.dll</HintPath>
+      <HintPath>..\..\..\..\Component\CPComponent-V9.0\bin\Release\CPComponent V9.0.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
@@ -68,7 +68,7 @@
     </Reference>
     <Reference Include="RplusKeyComponent, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\Component\RplusKeyComponent V8.0\RplusKeyComponent\bin\Release\RplusKeyComponent.dll</HintPath>
+      <HintPath>..\..\..\..\..\..\Component\RplusKeyComponent V8.0\RplusKeyComponent\bin\Release\RplusKeyComponent.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.configuration" />

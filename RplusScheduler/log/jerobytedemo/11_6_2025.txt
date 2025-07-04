@@ -1,0 +1,5 @@
+
+19:2:53 : Run sync company columns started for jerobytedemo
+19:2:53 : Run sync company columns completed for jerobytedemo
+19:5:31 : Run create table columns started for jerobytedemo
+19:5:33 : Run create table columns completed for jerobytedemo

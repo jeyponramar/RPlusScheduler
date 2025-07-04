@@ -28,7 +28,7 @@ namespace RplusScheduler
             {
                 DateTime dt = DateTime.Now.AddDays(-1);
                 dt = new DateTime(dt.Year, dt.Month, dt.Day, 0, 0, 1);
-                startDate = String.Format("{0:yyyy-MM-dd hh:mm:ss tt}", dt);
+                startDate = String.Format("{0:yyyy-MM-dd HH:mm:ss}", dt);
             }
             else
             {
@@ -39,9 +39,9 @@ namespace RplusScheduler
                     dtend = DateTime.Now;
                 }
                 dtEndDate = dtend;
-                startDate = String.Format("{0:yyyy-MM-dd hh:mm:ss tt}", dtstart);
+                startDate = String.Format("{0:yyyy-MM-dd HH:mm:ss}", dtstart);
             }
-            string endDate = String.Format("{0:yyyy-MM-dd hh:mm:ss tt}", dtEndDate);
+            string endDate = String.Format("{0:yyyy-MM-dd HH:mm:ss}", dtEndDate);
             string apiUrl = _ApiPrimaryUrl.Replace("$API_KEY$", apiKey);
             apiUrl = apiUrl.Replace("$START_DATE$", startDate);
             apiUrl = apiUrl.Replace("$END_DATE$", endDate);
@@ -51,6 +51,7 @@ namespace RplusScheduler
             int count = 0;
             try
             {
+                ErrorLog.WriteLog("TradeIndia API Url: " + apiUrl);
                 WebRequest request = WebRequest.Create(apiUrl);
                 System.Net.ServicePointManager.SecurityProtocol = System.Net.SecurityProtocolType.Tls;
                 ServicePointManager.Expect100Continue = true;

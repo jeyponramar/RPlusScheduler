@@ -50,6 +50,7 @@ namespace RplusScheduler
             int count = 0;
             try
             {
+                ErrorLog.WriteLog("IndiaMart API Url: " + apiUrl); 
                 WebRequest request = WebRequest.Create(apiUrl);
                 System.Net.ServicePointManager.SecurityProtocol = System.Net.SecurityProtocolType.Tls;
                 ServicePointManager.Expect100Continue = true;

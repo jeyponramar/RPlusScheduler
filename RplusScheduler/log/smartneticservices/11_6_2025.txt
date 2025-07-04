@@ -1,0 +1,5 @@
+
+19:2:46 : Run sync company columns started for smartneticservices
+19:2:47 : Run sync company columns completed for smartneticservices
+19:4:48 : Run create table columns started for smartneticservices
+19:4:50 : Run create table columns completed for smartneticservices

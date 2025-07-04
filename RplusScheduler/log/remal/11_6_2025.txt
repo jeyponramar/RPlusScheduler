@@ -1,0 +1,5 @@
+
+19:2:46 : Run sync company columns started for remal
+19:2:46 : Run sync company columns completed for remal
+19:4:42 : Run create table columns started for remal
+19:4:44 : Run create table columns completed for remal

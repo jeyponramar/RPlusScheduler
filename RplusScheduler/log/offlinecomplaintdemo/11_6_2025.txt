@@ -1,0 +1,5 @@
+
+19:2:50 : Run sync company columns started for offlinecomplaintdemo
+19:2:50 : Run sync company columns completed for offlinecomplaintdemo
+19:5:16 : Run create table columns started for offlinecomplaintdemo
+19:5:18 : Run create table columns completed for offlinecomplaintdemo

@@ -13,10 +13,14 @@ namespace RplusScheduler
         public static string ApplicationPath = Application.StartupPath.Replace("\\bin\\Debug", "").Replace("\\bin\\Release", "");
         public static void WriteLog(string Message)
         {
+            WriteLog(Message, true);
+        }
+        public static void WriteLog(string Message, bool includeSubDomain)
+        {
             StreamWriter sw = null;
             string FilePath = "";
             string FolderPath = "";
-            if (AppConstants.WinformSubdomain == "")
+            if (AppConstants.WinformSubdomain == "" || includeSubDomain == false)
             {
                 FolderPath = ApplicationPath + "/log";
             }

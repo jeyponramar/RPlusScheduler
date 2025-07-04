@@ -1,0 +1,225 @@
+
+6:18:10 :	:, Bulk WhatsApp is not enabled for :master
+6:19:9 :	:, RunGenerateExpenseScheduler: no data found: master
+6:19:10 :	:, EscalationScheduler:RunScheduler : Started for master
+6:19:11 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+6:19:11 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+6:19:11 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+6:19:11 :	:, EscalationScheduler:RunScheduler : Completed for master
+6:19:38 :	:, WhatsAppReportScheduler:RunScheduler : Started for master
+6:21:54 :	:, RunGenerateExpenseScheduler: no data found: master
+6:21:55 :	:, EscalationScheduler:RunScheduler : Started for master
+6:21:55 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+6:21:55 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+6:21:55 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+6:21:55 :	:, EscalationScheduler:RunScheduler : Completed for master
+6:27:14 :	:, RunGenerateExpenseScheduler: no data found: master
+6:27:15 :	:, EscalationScheduler:RunScheduler : Started for master
+6:27:15 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+6:27:15 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+6:27:15 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+6:27:15 :	:, EscalationScheduler:RunScheduler : Completed for master
+6:27:19 :	:, ScheduleReminderScheduler: started for master
+6:27:20 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Owner Daily Summary Report - WhatsApp
+6:27:20 :	:, ScheduleReminderScheduler failed for schedulereminderconfigid: 14; Column 'emailtemplate_emailtemplate' does not belong to table .
+6:27:33 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Owner Daily Summary Report - WhatsApp
+6:28:30 :	:, RunGenerateExpenseScheduler: no data found: master
+6:28:30 :	:, EscalationScheduler:RunScheduler : Started for master
+6:28:30 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+6:28:30 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+6:28:30 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+6:28:30 :	:, EscalationScheduler:RunScheduler : Completed for master
+6:28:38 :	:, ScheduleReminderScheduler: started for master
+6:28:43 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Owner Daily Summary Report - WhatsApp
+6:33:2 :	:, RunGenerateExpenseScheduler: no data found: master
+6:33:2 :	:, EscalationScheduler:RunScheduler : Started for master
+6:33:3 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+6:33:3 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+6:33:3 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+6:33:3 :	:, EscalationScheduler:RunScheduler : Completed for master
+6:33:4 :	:, ScheduleReminderScheduler: started for master
+6:33:4 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Owner Daily Summary Report - WhatsApp
+6:33:4 :	:, ScheduleReminderScheduler failed for schedulereminderconfigid: 14; Column 'scheduleremindercompanyconfig_isrunsevening' does not belong to table .
+6:33:4 :	:, ScheduleReminderScheduler: completed for master
+6:33:25 :	:, RunGenerateExpenseScheduler: no data found: uptimepowersystems
+6:33:58 :	:, RunGenerateExpenseScheduler: no data found: master
+6:33:58 :	:, EscalationScheduler:RunScheduler : Started for master
+6:33:58 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+6:33:58 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+6:33:58 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+6:33:58 :	:, EscalationScheduler:RunScheduler : Completed for master
+6:34:5 :	:, ScheduleReminderScheduler: started for master
+6:34:13 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Owner Daily Summary Report - WhatsApp
+6:35:6 :	:, RunGenerateExpenseScheduler: no data found: master
+6:35:7 :	:, EscalationScheduler:RunScheduler : Started for master
+6:35:7 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+6:35:7 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+6:35:7 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+6:35:7 :	:, EscalationScheduler:RunScheduler : Completed for master
+6:35:9 :	:, ScheduleReminderScheduler: started for master
+6:35:13 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Owner Daily Summary Report - WhatsApp
+6:35:26 :	:, RunGenerateExpenseScheduler: no data found: master
+6:35:27 :	:, EscalationScheduler:RunScheduler : Started for master
+6:35:27 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+6:35:27 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+6:35:27 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+6:35:27 :	:, EscalationScheduler:RunScheduler : Completed for master
+6:35:31 :	:, ScheduleReminderScheduler: started for master
+6:35:35 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Owner Daily Summary Report - WhatsApp
+7:0:21 :	:, RunGenerateExpenseScheduler: no data found: master
+7:0:21 :	:, EscalationScheduler:RunScheduler : Started for master
+7:0:21 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+7:0:21 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+7:0:21 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+7:0:21 :	:, EscalationScheduler:RunScheduler : Completed for master
+7:0:22 :	:, ScheduleReminderScheduler: started for master
+7:0:23 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Owner Daily Summary Report - WhatsApp
+7:0:23 :	:, ScheduleReminderScheduler: completed for master
+7:0:26 :	:, RunGenerateExpenseScheduler: no data found: uptimepowersystems
+7:0:34 :	:, RunGenerateExpenseScheduler: no data found: master
+7:0:34 :	:, EscalationScheduler:RunScheduler : Started for master
+7:0:34 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+7:0:34 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+7:0:34 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+7:0:34 :	:, EscalationScheduler:RunScheduler : Completed for master
+7:0:34 :	:, ScheduleReminderScheduler: started for master
+7:0:35 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Owner Daily Summary Report - WhatsApp
+7:0:35 :	:, ScheduleReminderScheduler: completed for master
+7:0:47 :	:, RunGenerateExpenseScheduler: no data found: master
+7:0:47 :	:, EscalationScheduler:RunScheduler : Started for master
+7:0:48 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+7:0:48 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+7:0:48 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+7:0:48 :	:, EscalationScheduler:RunScheduler : Completed for master
+7:0:48 :	:, ScheduleReminderScheduler: started for master
+7:0:56 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Owner Daily Summary Report - WhatsApp
+7:0:59 :	:, ScheduleReminderScheduler: completed for master
+7:1:5 :	:, RunGenerateExpenseScheduler: no data found: uptimepowersystems
+7:1:10 :	:, RunGenerateExpenseScheduler: no data found: master
+7:1:10 :	:, EscalationScheduler:RunScheduler : Started for master
+7:1:11 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+7:1:11 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+7:1:11 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+7:1:11 :	:, EscalationScheduler:RunScheduler : Completed for master
+7:1:11 :	:, ScheduleReminderScheduler: started for master
+7:1:12 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Owner Daily Summary Report - WhatsApp
+7:1:12 :	:, ScheduleReminderScheduler: completed for master
+7:1:12 :	:, RunGenerateExpenseScheduler: no data found: uptimepowersystems
+7:1:17 :	:, RunGenerateExpenseScheduler: no data found: master
+7:1:17 :	:, EscalationScheduler:RunScheduler : Started for master
+7:1:18 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+7:1:18 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+7:1:18 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+7:1:18 :	:, EscalationScheduler:RunScheduler : Completed for master
+7:1:18 :	:, ScheduleReminderScheduler: started for master
+7:1:25 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Owner Daily Summary Report - WhatsApp
+7:3:4 :	:, RunGenerateExpenseScheduler: no data found: master
+7:3:4 :	:, EscalationScheduler:RunScheduler : Started for master
+7:3:4 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+7:3:4 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+7:3:4 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+7:3:4 :	:, EscalationScheduler:RunScheduler : Completed for master
+7:3:5 :	:, ScheduleReminderScheduler: started for master
+7:3:11 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Owner Daily Summary Report - WhatsApp
+7:5:13 :	:, RunGenerateExpenseScheduler: no data found: master
+7:5:13 :	:, EscalationScheduler:RunScheduler : Started for master
+7:5:14 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+7:5:14 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+7:5:14 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+7:5:14 :	:, EscalationScheduler:RunScheduler : Completed for master
+7:5:14 :	:, ScheduleReminderScheduler: started for master
+7:5:17 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Owner Daily Summary Report - WhatsApp
+7:6:10 :	:, RunGenerateExpenseScheduler: no data found: master
+7:6:10 :	:, EscalationScheduler:RunScheduler : Started for master
+7:6:11 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+7:6:11 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+7:6:11 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+7:6:11 :	:, EscalationScheduler:RunScheduler : Completed for master
+7:6:11 :	:, ScheduleReminderScheduler: started for master
+7:6:49 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Owner Daily Summary Report - WhatsApp
+7:11:56 :	:, RunGenerateExpenseScheduler: no data found: master
+7:11:57 :	:, EscalationScheduler:RunScheduler : Started for master
+7:11:57 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+7:11:57 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+7:11:57 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+7:11:57 :	:, EscalationScheduler:RunScheduler : Completed for master
+7:11:57 :	:, ScheduleReminderScheduler: started for master
+7:11:59 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Owner Daily Summary Report - WhatsApp
+7:14:24 :	:, RunGenerateExpenseScheduler: no data found: master
+7:14:24 :	:, EscalationScheduler:RunScheduler : Started for master
+7:14:25 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+7:14:25 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+7:14:25 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+7:14:25 :	:, EscalationScheduler:RunScheduler : Completed for master
+7:14:25 :	:, ScheduleReminderScheduler: started for master
+7:14:27 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Owner Daily Summary Report - WhatsApp
+7:15:22 :	:, RunGenerateExpenseScheduler: no data found: master
+7:15:22 :	:, EscalationScheduler:RunScheduler : Started for master
+7:15:23 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+7:15:23 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+7:15:23 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+7:15:23 :	:, EscalationScheduler:RunScheduler : Completed for master
+7:15:23 :	:, ScheduleReminderScheduler: started for master
+7:15:26 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Owner Daily Summary Report - WhatsApp
+7:31:11 :	:, RunGenerateExpenseScheduler: no data found: master
+7:31:11 :	:, EscalationScheduler:RunScheduler : Started for master
+7:31:11 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+7:31:11 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+7:31:12 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+7:31:12 :	:, EscalationScheduler:RunScheduler : Completed for master
+7:31:12 :	:, ScheduleReminderScheduler: started for master
+7:31:14 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Owner Daily Summary Report - WhatsApp
+7:32:3 :	:, ScheduleReminderScheduler failed for schedulereminderconfigid: 14; Column 'today' does not belong to table .
+7:32:3 :	:, ScheduleReminderScheduler: completed for master
+7:32:4 :	:, RunGenerateExpenseScheduler: no data found: uptimepowersystems
+7:32:49 :	:, RunGenerateExpenseScheduler: no data found: master
+7:32:49 :	:, EscalationScheduler:RunScheduler : Started for master
+7:32:49 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+7:32:49 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+7:32:49 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+7:32:49 :	:, EscalationScheduler:RunScheduler : Completed for master
+7:32:49 :	:, ScheduleReminderScheduler: started for master
+7:32:53 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Owner Daily Summary Report - WhatsApp
+7:33:10 :	:, ScheduleReminderScheduler failed for schedulereminderconfigid: 14; Column 'today' does not belong to table .
+7:33:10 :	:, ScheduleReminderScheduler: completed for master
+7:33:11 :	:, RunGenerateExpenseScheduler: no data found: uptimepowersystems
+7:33:17 :	:, RunGenerateExpenseScheduler: no data found: master
+7:33:17 :	:, EscalationScheduler:RunScheduler : Started for master
+7:33:17 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+7:33:17 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+7:33:17 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+7:33:17 :	:, EscalationScheduler:RunScheduler : Completed for master
+7:33:18 :	:, ScheduleReminderScheduler: started for master
+7:33:18 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Owner Daily Summary Report - WhatsApp
+7:34:47 :	:, RunGenerateExpenseScheduler: no data found: master
+7:34:48 :	:, EscalationScheduler:RunScheduler : Started for master
+7:34:48 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+7:34:48 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+7:34:48 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+7:34:48 :	:, EscalationScheduler:RunScheduler : Completed for master
+7:34:48 :	:, ScheduleReminderScheduler: started for master
+7:34:48 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Owner Daily Summary Report - WhatsApp
+9:58:49 :	:, RunGenerateExpenseScheduler: no data found: master
+9:58:49 :	:, EscalationScheduler:RunScheduler : Started for master
+9:58:49 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+9:58:49 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+9:58:50 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+9:58:50 :	:, EscalationScheduler:RunScheduler : Completed for master
+9:58:50 :	:, ScheduleReminderScheduler: started for master
+9:58:50 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Owner Daily Summary Report - WhatsApp
+9:59:4 :	:, WhatsApp:SendMessageToAPI Result :{"messaging_product":"whatsapp","contacts":[{"input":"9819398363","wa_id":"919819398363"}],"messages":[{"id":"wamid.HBgMOTE5ODE5Mzk4MzYzFQIAERgSMzc0MUVFRjQ0RDgxNEVGOTFDAA==","message_status":"accepted"}]}
+9:59:5 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig end :Owner Daily Summary Report - WhatsApp
+9:59:5 :	:, ScheduleReminderScheduler: completed for master
+9:59:5 :	:, RunGenerateExpenseScheduler: no data found: uptimepowersystems
+9:59:59 :	:, RunGenerateExpenseScheduler: no data found: master
+9:59:59 :	:, EscalationScheduler:RunScheduler : Started for master
+10:0:0 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+10:0:0 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+10:0:0 :	:, EscalationScheduler:SendEscalation : Error Object reference not set to an instance of an object.
+10:0:0 :	:, EscalationScheduler:RunScheduler : Completed for master
+10:0:0 :	:, ScheduleReminderScheduler: started for master
+10:0:0 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start :Owner Daily Summary Report - WhatsApp
+10:0:31 :	:, WhatsApp:SendMessageToAPI Result :{"messaging_product":"whatsapp","contacts":[{"input":"9819398363","wa_id":"919819398363"}],"messages":[{"id":"wamid.HBgMOTE5ODE5Mzk4MzYzFQIAERgSREExNjUyMkQ4MDBBMDEyQjMyAA==","message_status":"accepted"}]}
+10:0:38 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig end :Owner Daily Summary Report - WhatsApp
+10:0:38 :	:, ScheduleReminderScheduler: completed for master
+10:0:39 :	:, RunGenerateExpenseScheduler: no data found: uptimepowersystems

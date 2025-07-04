@@ -1,0 +1,5 @@
+
+19:2:49 : Run sync company columns started for mamaakolkardemo
+19:2:49 : Run sync company columns completed for mamaakolkardemo
+19:5:5 : Run create table columns started for mamaakolkardemo
+19:5:7 : Run create table columns completed for mamaakolkardemo

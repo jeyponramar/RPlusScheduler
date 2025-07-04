@@ -16,12 +16,19 @@ namespace RplusScheduler
 {
     static class Program
     {
+        static void AppErrorHandler(object sender, System.Threading.ThreadExceptionEventArgs e)
+        {
+            MessageBox.Show("Thread exception: " + e.Exception.Message);
+        }
+
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
         [STAThread]
         static void Main(string[] args)
         {
+            Application.ThreadException += new System.Threading.ThreadExceptionEventHandler(AppErrorHandler);
+
             //TestMail();
 
             Application.EnableVisualStyles();
@@ -41,8 +48,8 @@ namespace RplusScheduler
 
             //ResizeImage(folder);
             //return;
-            //RPlusWindowsScheduler objRPlusWindowsScheduler1 = new RPlusWindowsScheduler();
-            //objRPlusWindowsScheduler1.RunScheduler(EnumSchedulerType.DailyTask);
+            //RPlusWindowsScheduler objRPlusWindowsScheduler2 = new RPlusWindowsScheduler();
+            //objRPlusWindowsScheduler2.RunScheduler(EnumSchedulerType.DailyTask);
             if (args.Length > 0)
             {
                 string appname = "";
@@ -85,7 +92,7 @@ namespace RplusScheduler
                 else if (appname == "bulkemail" || appname == "bulksms" || appname == "bulkwhatsapp" || appname == "dailytask")
                 {
                     RPlusWindowsScheduler objRPlusWindowsScheduler = new RPlusWindowsScheduler();
-                    EnumSchedulerType schedulerType = EnumSchedulerType.BulkEmail;
+                    EnumSchedulerType schedulerType = EnumSchedulerType.DailyTask;
                     if (appname == "bulksms")
                     {
                         schedulerType = EnumSchedulerType.BulkSMS;
@@ -94,9 +101,9 @@ namespace RplusScheduler
                     {
                         schedulerType = EnumSchedulerType.BulkWhatsApp;
                     }
-                    else if (appname == "dailytask")
+                    else if (appname == "bulkemail")
                     {
-                        schedulerType = EnumSchedulerType.DailyTask;
+                        schedulerType = EnumSchedulerType.BulkEmail;
                     }
                     objRPlusWindowsScheduler.RunScheduler(schedulerType);
                 }
@@ -109,6 +116,11 @@ namespace RplusScheduler
                     //objRPlusStorageCalculator.UpdateAllUploadFolderDocSize(); // only for first time
                     //DatabaseBackupUtility objDatabaseBackupUtility = new DatabaseBackupUtility();
                     //objDatabaseBackupUtility.BackupDatabaseInBlob();
+                }
+                else if (appname == "dailytask")
+                {
+                    RPlusWindowsScheduler objRPlusWindowsScheduler1 = new RPlusWindowsScheduler();
+                    objRPlusWindowsScheduler1.RunScheduler(EnumSchedulerType.DailyTask);
                 }
                 //else if (appname == "backupdatabaseinblob")
                 //{

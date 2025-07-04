@@ -1,0 +1,5 @@
+
+19:2:46 : Run sync company columns started for faradays
+19:2:46 : Run sync company columns completed for faradays
+19:4:46 : Run create table columns started for faradays
+19:4:48 : Run create table columns completed for faradays

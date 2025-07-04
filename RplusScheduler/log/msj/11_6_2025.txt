@@ -1,0 +1,5 @@
+
+19:2:45 : Run sync company columns started for msj
+19:2:46 : Run sync company columns completed for msj
+19:4:40 : Run create table columns started for msj
+19:4:42 : Run create table columns completed for msj

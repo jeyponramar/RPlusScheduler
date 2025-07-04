@@ -1,0 +1,5 @@
+
+19:2:53 : Run sync company columns started for rbpowersolutiondemo
+19:2:54 : Run sync company columns completed for rbpowersolutiondemo
+19:5:35 : Run create table columns started for rbpowersolutiondemo
+19:5:37 : Run create table columns completed for rbpowersolutiondemo

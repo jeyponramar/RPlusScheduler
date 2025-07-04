@@ -1,0 +1,5 @@
+
+19:2:54 : Run sync company columns started for gayatriinfotechdemo
+19:2:54 : Run sync company columns completed for gayatriinfotechdemo
+19:5:39 : Run create table columns started for gayatriinfotechdemo
+19:5:41 : Run create table columns completed for gayatriinfotechdemo

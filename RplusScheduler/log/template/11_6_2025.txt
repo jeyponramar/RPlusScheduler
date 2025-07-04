@@ -1,0 +1,5 @@
+
+19:2:37 : Run sync company columns started for template
+19:2:39 : Run sync company columns completed for template
+19:4:35 : Run create table columns started for template
+19:4:37 : Run create table columns completed for template

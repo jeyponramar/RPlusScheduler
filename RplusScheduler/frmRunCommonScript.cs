@@ -41,91 +41,106 @@ namespace RplusScheduler
         }
         private void btnrunscript_Click(object sender, EventArgs e)
         {
-            if (MessageBox.Show("Are you sure you want to run script?", "Confirm",
-                    MessageBoxButtons.YesNo) != DialogResult.Yes) return;
+            try
+            {
+                if (MessageBox.Show("Are you sure you want to run script?", "Confirm",
+                        MessageBoxButtons.YesNo) != DialogResult.Yes) return;
 
-            string folderPath = txtscriptfolderpath.Text;
-            if (folderPath == "" && txtscript.Text.Trim() == "")
-            {
-                MessageBox.Show("Please enter folder path OR script");
-                return;
-            }
-            if (folderPath != "" && !Directory.Exists(folderPath))
-            {
-                MessageBox.Show("Invalid folder path");
-                return;
-            }
-            if (folderPath != "" && txtscript.Text.Trim() != "")
-            {
-                MessageBox.Show("You can enter folder path OR script");
-                return;
-            }
-            lblstatus.Text = "";
-            txterror.Text = "";
-            txterrordatabase.Text = "";
-            txterror.Text = "";
-            string script = txtscript.Text;
-            AppConstantsWinform.ConnectionString = AppConstantsWinform.RPlusMasterConnectionString;
-            AppConstants.WinformSubdomain = "";
-
-            if (chkincludemasterdb.Checked)
-            {
-                InsertUpdate obj1 = new InsertUpdate();
-                obj1._throwError = false;
-                bool isexecuted1 = obj1.ExecuteQuery(script);
-                if (!isexecuted1)
+                string folderPath = txtscriptfolderpath.Text;
+                if (folderPath == "" && txtscript.Text.Trim() == "")
                 {
-                    txterror.Text += obj1._error + Environment.NewLine;
+                    MessageBox.Show("Please enter folder path OR script");
+                    return;
                 }
-            }
-
-            DataTable dttbl = GetCompanies();
-            for (int i = 0; i < dttbl.Rows.Count; i++)
-            {
-                string subdomain = GlobalUtilitiesWinform.ConvertToString(dttbl.Rows[i]["company_subdomain"]);
-                AppConstants.WinformSubdomain = subdomain;
-                AppConstants.IsWinformMultiTenantChild = true;
-                AppConstants.WinformConnectionString = AppConstantsWinform.GetChildConnectionString(subdomain);
-                ErrorLog.WriteLog("Run common script started for " + subdomain);
-                bool isexecuted = false;
-                InsertUpdate obj = new InsertUpdate();
-                if (folderPath == "")
+                if (folderPath != "" && !Directory.Exists(folderPath))
                 {
-                    obj._throwError = false;
-                    isexecuted = obj.ExecuteQuery(script);
-                    if (!isexecuted)
+                    MessageBox.Show("Invalid folder path");
+                    return;
+                }
+                if (folderPath != "" && txtscript.Text.Trim() != "")
+                {
+                    MessageBox.Show("You can enter folder path OR script");
+                    return;
+                }
+                lblstatus.Text = "";
+                txterror.Text = "";
+                txterrordatabase.Text = "";
+                txterror.Text = "";
+                string script = txtscript.Text;
+                AppConstantsWinform.ConnectionString = AppConstantsWinform.RPlusMasterConnectionString;
+                AppConstants.WinformSubdomain = "";
+
+                if (chkincludemasterdb.Checked)
+                {
+                    InsertUpdate obj1 = new InsertUpdate();
+                    obj1._throwError = false;
+                    bool isexecuted1 = obj1.ExecuteQuery(script);
+                    if (!isexecuted1)
                     {
-                        txterror.Text += obj._error + Environment.NewLine;
+                        txterror.Text += obj1._error + Environment.NewLine;
                     }
                 }
-                else
+
+                DataTable dttbl = GetCompanies();
+                for (int i = 0; i < dttbl.Rows.Count; i++)
                 {
-                    isexecuted = ExecuteScriptFolder(folderPath);
-                }
-                if (!isexecuted)
-                {
-                    txterrordatabase.Text += subdomain + ",";
-                    
-                    if (obj._error.Contains("Cannot open database"))
+                    string subdomain = "";
+                    try
                     {
-                    }
-                    else
-                    {
-                        if (!chkSkipError.Checked)
+                        subdomain = GlobalUtilitiesWinform.ConvertToString(dttbl.Rows[i]["company_subdomain"]);
+                        AppConstants.WinformSubdomain = subdomain;
+                        AppConstants.IsWinformMultiTenantChild = true;
+                        AppConstants.WinformConnectionString = AppConstantsWinform.GetChildConnectionString(subdomain);
+                        ErrorLog.WriteLog("Run common script started for " + subdomain);
+                        bool isexecuted = false;
+                        InsertUpdate obj = new InsertUpdate();
+                        if (folderPath == "")
                         {
-                            MessageBox.Show("Error occurred!");
-                            return;
+                            obj._throwError = false;
+                            isexecuted = obj.ExecuteQuery(script);
+                            if (!isexecuted)
+                            {
+                                txterror.Text += obj._error + Environment.NewLine;
+                            }
                         }
+                        else
+                        {
+                            isexecuted = ExecuteScriptFolder(folderPath);
+                        }
+                        if (!isexecuted)
+                        {
+                            txterrordatabase.Text += subdomain + ",";
+
+                            if (obj._error.Contains("Cannot open database"))
+                            {
+                            }
+                            else
+                            {
+                                if (!chkSkipError.Checked)
+                                {
+                                    MessageBox.Show("Error occurred!");
+                                    return;
+                                }
+                            }
+                        }
+                        lblstatus.Text = (i + 1).ToString() + " / " + dttbl.Rows.Count;
+                        lblstatus.Refresh();
+                        //txterror.Text = txterror.Text + Environment.NewLine + subdomain;
+                        txterrordatabase.Refresh();
+                        ErrorLog.WriteLog("Run common script completed for " + subdomain);
+                        Thread.Sleep(10);
+                    }
+                    catch (Exception ex)
+                    {
+                        txterror.Text += Environment.NewLine + subdomain + ": " + Environment.NewLine;
                     }
                 }
-                lblstatus.Text = (i + 1).ToString() + " / " + dttbl.Rows.Count;
-                lblstatus.Refresh();
-                //txterror.Text = txterror.Text + Environment.NewLine + subdomain;
-                txterrordatabase.Refresh();
-                ErrorLog.WriteLog("Run common script completed for " + subdomain);
-                Thread.Sleep(10);
+                MessageBox.Show("Script executed successfully!");
             }
-            MessageBox.Show("Script executed successfully!");
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
         }
 
         private bool ExecuteScriptFolder(string folderPath)
@@ -415,19 +430,21 @@ namespace RplusScheduler
 
         private void btnSyncSettings_Click(object sender, EventArgs e)
         {
-            if (MessageBox.Show("Are you sure you want to sync the settings from master db?", "Confirm",
-                    MessageBoxButtons.YesNo) != DialogResult.Yes) return;
-
-            DataTable dttbl = GetCompanies();
-            for (int i = 0; i < dttbl.Rows.Count; i++)
+            try
             {
-                string subdomain = GlobalUtilitiesWinform.ConvertToString(dttbl.Rows[i]["company_subdomain"]);
-                AppConstants.IsWinformMultiTenantChild = true;
-                AppConstants.WinformSubdomain = subdomain;
-                AppConstants.WinformConnectionString = AppConstantsWinform.GetChildConnectionString(subdomain);
-
-                ErrorLog.WriteLog("Run create table columns started for " + subdomain);
-                string query = @"insert into tbl_setting(setting_createddate,setting_createdby,setting_settingname,setting_settingvalue,setting_ishtml,
+                if (MessageBox.Show("Are you sure you want to sync the settings from master db?", "Confirm",
+                        MessageBoxButtons.YesNo) != DialogResult.Yes) return;
+                ErrorLog.WriteLog("Sync settings started", false);
+                DataTable dttbl = GetCompanies();
+                for (int i = 0; i < dttbl.Rows.Count; i++)
+                {
+                    string subdomain = GlobalUtilitiesWinform.ConvertToString(dttbl.Rows[i]["company_subdomain"]);
+                    ErrorLog.WriteLog("Sync settings start for " + subdomain, false);
+                    AppConstants.IsWinformMultiTenantChild = true;
+                    AppConstants.WinformSubdomain = subdomain;
+                    AppConstants.WinformConnectionString = AppConstantsWinform.GetChildConnectionString(subdomain);
+                    
+                    string query = @"insert into tbl_setting(setting_createddate,setting_createdby,setting_settingname,setting_settingvalue,setting_ishtml,
                             setting_rplussettinggroupid,setting_rpluscontrolsid,setting_defaultvalue,setting_dropdownvalues,setting_isclient,
                             setting_isbottomborder,setting_setting,setting_description)
                             select getdate(),1,setting_settingname,'',setting_ishtml,
@@ -435,15 +452,78 @@ namespace RplusScheduler
                             setting_isbottomborder,setting_setting,setting_description
                             from [RPlusCRM_Master_V8].dbo.tbl_setting s1
                             where s1.setting_settingname not in(select setting_settingname from tbl_setting)";
-                InsertUpdate obj = new InsertUpdate();
-                obj.ExecuteQuery(query);
+                    InsertUpdate obj = new InsertUpdate();
+                    try
+                    {
+                        obj._throwError = false;
+                        obj.ExecuteQuery(query);
+                    }
+                    catch (Exception ex2)
+                    {
+                        MessageBox.Show(ex2.Message);
+                    }
 
-                lblstatus.Text = (i + 1).ToString() + " / " + dttbl.Rows.Count;
-                lblstatus.Refresh();
-                ErrorLog.WriteLog("Run create table columns completed for " + subdomain);
+                    ErrorLog.WriteLog("Sync settings completed for " + subdomain, false);
+
+                    ErrorLog.WriteLog("Sync email template start for " + subdomain, false);
+                    query = @"
+                        set identity_insert tbl_emailtemplate on;
+                        insert into tbl_emailtemplate(
+                            emailtemplate_emailtemplateid,emailtemplate_templatename,emailtemplate_subject,emailtemplate_createddate,emailtemplate_createdby,
+                            emailtemplate_attachments,emailtemplate_message,emailtemplate_to,emailtemplate_cc,emailtemplate_moduleid,
+                            emailtemplate_ismultimail,emailtemplate_isenabled,emailtemplate_statuscolumn,emailtemplate_statusvalue,
+                            emailtemplate_idcolumn,emailtemplate_module,emailtemplate_isautomatic,emailtemplate_isconfirmandsend,emailtemplate_attachment,
+                            emailtemplate_aftersavequery,emailtemplate_statusupdatecolumn,emailtemplate_emailtitle,emailtemplate_isusersignature,
+                            emailtemplate_emailadid,emailtemplate_issendtootherassignees,emailtemplate_sendfromloggedinuser,emailtemplate_issendtoadditionalcontact,
+                            emailtemplate_isrefux,emailtemplate_whatsapptemplateid,emailtemplate_issendwhatsapp,emailtemplate_pdftemplateid
+                            )
+                            select emailtemplate_emailtemplateid,emailtemplate_templatename,emailtemplate_subject,getdate(),1,
+                            emailtemplate_attachments,emailtemplate_message,emailtemplate_to,emailtemplate_cc,emailtemplate_moduleid,
+                            emailtemplate_ismultimail,emailtemplate_isenabled,emailtemplate_statuscolumn,emailtemplate_statusvalue,
+                            emailtemplate_idcolumn,emailtemplate_module,emailtemplate_isautomatic,emailtemplate_isconfirmandsend,emailtemplate_attachment,
+                            emailtemplate_aftersavequery,emailtemplate_statusupdatecolumn,emailtemplate_emailtitle,emailtemplate_isusersignature,
+                            emailtemplate_emailadid,emailtemplate_issendtootherassignees,emailtemplate_sendfromloggedinuser,emailtemplate_issendtoadditionalcontact,
+                            emailtemplate_isrefux,emailtemplate_whatsapptemplateid,emailtemplate_issendwhatsapp,emailtemplate_pdftemplateid
+                            from [RPlusCRM_Master_V8].dbo.tbl_emailtemplate t1
+                            where t1.emailtemplate_emailtemplateid not in(select emailtemplate_emailtemplateid from tbl_emailtemplate);
+                            set identity_insert tbl_emailtemplate off;";
+                    obj = new InsertUpdate();
+                    obj.ExecuteQuery(query);
+                    ErrorLog.WriteLog("Sync email template completed for " + subdomain, false);
+
+                    //                ErrorLog.WriteLog("Sync WhatsApp template start for " + subdomain);
+                    //                query = @"
+                    //                        set identity_insert tbl_whatsapptemplate on;
+                    //                        insert into tbl_whatsapptemplate(
+                    //                        whatsapptemplate_whatsapptemplateid,whatsapptemplate_templatename,whatsapptemplate_whatsapptemplatecode,whatsapptemplate_moduleid,
+                    //                        whatsapptemplate_frommobileno,whatsapptemplate_mobileno,whatsapptemplate_message,whatsapptemplate_webwhatsappmessage,
+                    //                        whatsapptemplate_whatsappvariables,whatsapptemplate_whatsappmessagecategoryid,whatsapptemplate_attachment,
+                    //                        whatsapptemplate_ismultimessage,whatsapptemplate_isautomatic,whatsapptemplate_isenabled,whatsapptemplate_statuscolumn,
+                    //                        whatsapptemplate_statusvalue,whatsapptemplate_idcolumn,whatsapptemplate_issendtootherassignees,whatsapptemplate_issendtoadditionalcontact,
+                    //                        whatsapptemplate_createddate,whatsapptemplate_createdby)
+                    //                        select whatsapptemplate_whatsapptemplateid,whatsapptemplate_templatename,whatsapptemplate_whatsapptemplatecode,whatsapptemplate_moduleid,
+                    //                        whatsapptemplate_frommobileno,whatsapptemplate_mobileno,whatsapptemplate_message,whatsapptemplate_webwhatsappmessage,
+                    //                        whatsapptemplate_whatsappvariables,whatsapptemplate_whatsappmessagecategoryid,whatsapptemplate_attachment,
+                    //                        whatsapptemplate_ismultimessage,whatsapptemplate_isautomatic,whatsapptemplate_isenabled,whatsapptemplate_statuscolumn,
+                    //                        whatsapptemplate_statusvalue,whatsapptemplate_idcolumn,whatsapptemplate_issendtootherassignees,whatsapptemplate_issendtoadditionalcontact,
+                    //                        getdate(),1
+                    //                        from [RPlusCRM_Master_V8].dbo.tbl_whatsapptemplate w
+                    //                        where w.whatsapptemplate_whatsapptemplateid not in(select whatsapptemplate_whatsapptemplateid from tbl_whatsapptemplate);
+                    //                        
+                    //                        set identity_insert tbl_whatsapptemplate off;";
+                    //                obj = new InsertUpdate();
+                    //                obj.ExecuteQuery(query);
+                    //                ErrorLog.WriteLog("Sync WhatsApp template completed for " + subdomain);
+                    lblstatus.Text = (i + 1).ToString() + " / " + dttbl.Rows.Count.ToString();
+                    lblstatus.Refresh();
+                }
+                ErrorLog.WriteLog("Sync settings completed for all", false);
+                MessageBox.Show("Sync settings completed successfully!");
             }
-
-            MessageBox.Show("Company columns synced successfully!");
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
         }
     }
 }

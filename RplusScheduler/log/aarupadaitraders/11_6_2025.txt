@@ -1,0 +1,5 @@
+
+19:2:46 : Run sync company columns started for aarupadaitraders
+19:2:46 : Run sync company columns completed for aarupadaitraders
+19:4:44 : Run create table columns started for aarupadaitraders
+19:4:46 : Run create table columns completed for aarupadaitraders

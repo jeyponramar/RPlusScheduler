@@ -1,0 +1,5 @@
+
+19:2:55 : Run sync company columns started for rushnetworksllpdemo
+19:2:55 : Run sync company columns completed for rushnetworksllpdemo
+19:5:45 : Run create table columns started for rushnetworksllpdemo
+19:5:47 : Run create table columns completed for rushnetworksllpdemo

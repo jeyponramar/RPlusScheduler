@@ -1,0 +1,5 @@
+
+19:2:55 : Run sync company columns started for twobrocaredemo
+19:2:55 : Run sync company columns completed for twobrocaredemo
+19:5:43 : Run create table columns started for twobrocaredemo
+19:5:45 : Run create table columns completed for twobrocaredemo

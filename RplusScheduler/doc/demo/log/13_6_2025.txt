@@ -1,0 +1,17 @@
+
+18:56:34 :	:, RunGenerateExpenseScheduler: no data found: demo
+18:56:34 :	:, EscalationScheduler:RunScheduler : Started for demo
+18:56:34 :	:, EscalationScheduler:RunScheduler : Completed for demo
+18:56:37 :	:, ScheduleReminderScheduler: started for demo
+18:56:37 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start : demo;Owner Daily Summary Report - WhatsApp
+18:59:25 :	:, ScheduleReminderScheduler failed for schedulereminderconfigid: demo;14; Column 'grid_4' does not belong to table .
+18:59:39 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start : demo;Owner Daily Summary Report - WhatsApp
+19:9:38 :	:, ScheduleReminderScheduler failed for schedulereminderconfigid: demo;14; Column 'grid_4' does not belong to table .
+19:9:43 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start : demo;Owner Weekly Summary Report - WhatsApp
+19:23:6 :	:, RunGenerateExpenseScheduler: no data found: demo
+19:23:6 :	:, EscalationScheduler:RunScheduler : Started for demo
+19:23:7 :	:, EscalationScheduler:RunScheduler : Completed for demo
+19:23:10 :	:, ScheduleReminderScheduler: started for demo
+19:23:10 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start : demo;Owner Daily Summary Report - WhatsApp
+19:24:3 :	:, WhatsApp:SendMessageToAPI Result :{"messaging_product":"whatsapp","contacts":[{"input":"9769611937","wa_id":"919769611937"}],"messages":[{"id":"wamid.HBgMOTE5NzY5NjExOTM3FQIAERgSNDgyMzRCMUI0REYwRkZCNzNGAA==","message_status":"accepted"}]}
+19:24:13 :	:, WhatsApp:SendMessageToAPI Result :{"messaging_product":"whatsapp","contacts":[{"input":"9819398363","wa_id":"919819398363"}],"messages":[{"id":"wamid.HBgMOTE5ODE5Mzk4MzYzFQIAERgSNThENzA5NUEzQkU1MDM4OTQ3AA==","message_status":"accepted"}]}

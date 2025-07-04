@@ -1,0 +1,5 @@
+
+19:2:54 : Run sync company columns started for hiairetinaprivatelimiteddemo
+19:2:55 : Run sync company columns completed for hiairetinaprivatelimiteddemo
+19:5:41 : Run create table columns started for hiairetinaprivatelimiteddemo
+19:5:43 : Run create table columns completed for hiairetinaprivatelimiteddemo

@@ -1,0 +1,5 @@
+
+19:2:45 : Run sync company columns started for ramindustries
+19:2:45 : Run sync company columns completed for ramindustries
+19:4:38 : Run create table columns started for ramindustries
+19:4:40 : Run create table columns completed for ramindustries

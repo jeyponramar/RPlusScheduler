@@ -1,0 +1,5 @@
+
+19:2:48 : Run sync company columns started for laxmidemo
+19:2:48 : Run sync company columns completed for laxmidemo
+19:4:58 : Run create table columns started for laxmidemo
+19:5:0 : Run create table columns completed for laxmidemo

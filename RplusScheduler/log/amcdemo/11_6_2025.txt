@@ -1,0 +1,5 @@
+
+19:2:50 : Run sync company columns started for amcdemo
+19:2:50 : Run sync company columns completed for amcdemo
+19:5:13 : Run create table columns started for amcdemo
+19:5:14 : Run create table columns completed for amcdemo

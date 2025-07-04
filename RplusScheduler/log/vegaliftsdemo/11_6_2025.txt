@@ -1,0 +1,5 @@
+
+19:2:48 : Run sync company columns started for vegaliftsdemo
+19:2:49 : Run sync company columns completed for vegaliftsdemo
+19:5:4 : Run create table columns started for vegaliftsdemo
+19:5:5 : Run create table columns completed for vegaliftsdemo

@@ -62,7 +62,7 @@
             // 
             this.btnrunscript.Location = new System.Drawing.Point(219, 338);
             this.btnrunscript.Name = "btnrunscript";
-            this.btnrunscript.Size = new System.Drawing.Size(116, 36);
+            this.btnrunscript.Size = new System.Drawing.Size(134, 36);
             this.btnrunscript.TabIndex = 7;
             this.btnrunscript.Text = "Run Script";
             this.btnrunscript.UseVisualStyleBackColor = true;
@@ -176,7 +176,7 @@
             // 
             // btncreatetablecolumns
             // 
-            this.btncreatetablecolumns.Location = new System.Drawing.Point(359, 338);
+            this.btncreatetablecolumns.Location = new System.Drawing.Point(392, 338);
             this.btncreatetablecolumns.Name = "btncreatetablecolumns";
             this.btncreatetablecolumns.Size = new System.Drawing.Size(134, 36);
             this.btncreatetablecolumns.TabIndex = 17;
@@ -190,7 +190,6 @@
             this.txtsubdomains.Name = "txtsubdomains";
             this.txtsubdomains.Size = new System.Drawing.Size(307, 20);
             this.txtsubdomains.TabIndex = 19;
-            this.txtsubdomains.Text = "laxmi";
             // 
             // label8
             // 
@@ -271,9 +270,9 @@
             // 
             // btnDatabaseBackup
             // 
-            this.btnDatabaseBackup.Location = new System.Drawing.Point(359, 380);
+            this.btnDatabaseBackup.Location = new System.Drawing.Point(392, 380);
             this.btnDatabaseBackup.Name = "btnDatabaseBackup";
-            this.btnDatabaseBackup.Size = new System.Drawing.Size(116, 36);
+            this.btnDatabaseBackup.Size = new System.Drawing.Size(134, 36);
             this.btnDatabaseBackup.TabIndex = 28;
             this.btnDatabaseBackup.Text = "Backup Database";
             this.btnDatabaseBackup.UseVisualStyleBackColor = true;
@@ -285,7 +284,7 @@
             this.btnSyncSettings.Name = "btnSyncSettings";
             this.btnSyncSettings.Size = new System.Drawing.Size(134, 36);
             this.btnSyncSettings.TabIndex = 29;
-            this.btnSyncSettings.Text = "Sync Settings";
+            this.btnSyncSettings.Text = "Sync All Settings";
             this.btnSyncSettings.UseVisualStyleBackColor = true;
             this.btnSyncSettings.Click += new System.EventHandler(this.btnSyncSettings_Click);
             // 

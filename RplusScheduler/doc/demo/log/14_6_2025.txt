@@ -1,0 +1,20 @@
+
+16:53:0 :	:, ScheduleReminderScheduler: started for demo
+16:53:17 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start : demo;Owner Daily Summary Report - WhatsApp
+17:0:5 :	:, RunGenerateExpenseScheduler: no data found: demo
+17:0:5 :	:, EscalationScheduler:RunScheduler : Started for demo
+17:0:7 :	:, EscalationScheduler:RunScheduler : Completed for demo
+17:0:19 :	:, ScheduleReminderScheduler: started for demo
+17:0:25 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start : demo;Owner Daily Summary Report - WhatsApp
+18:12:37 :	:, RunGenerateExpenseScheduler: no data found: demo
+18:12:37 :	:, EscalationScheduler:RunScheduler : Started for demo
+18:12:39 :	:, EscalationScheduler:RunScheduler : Completed for demo
+18:12:46 :	:, ScheduleReminderScheduler: started for demo
+18:12:46 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start : demo;Owner Daily Summary Report - WhatsApp
+18:13:59 :	:, WhatsApp:SendMessageToAPI Result :{"messaging_product":"whatsapp","contacts":[{"input":"9769611937","wa_id":"919769611937"}],"messages":[{"id":"wamid.HBgMOTE5NzY5NjExOTM3FQIAERgSMUY1QURGREZBMTk3RTc3NjBGAA==","message_status":"accepted"}]}
+18:17:5 :	:, RunGenerateExpenseScheduler: no data found: demo
+18:17:6 :	:, EscalationScheduler:RunScheduler : Started for demo
+18:17:8 :	:, EscalationScheduler:RunScheduler : Completed for demo
+18:17:11 :	:, ScheduleReminderScheduler: started for demo
+18:17:11 :	:, ScheduleReminderScheduler: reminder email for schedulereminderconfig start : demo;Owner Daily Summary Report - WhatsApp
+18:17:24 :	:, WhatsApp:SendMessageToAPI Result :{"messaging_product":"whatsapp","contacts":[{"input":"9769611937","wa_id":"919769611937"}],"messages":[{"id":"wamid.HBgMOTE5NzY5NjExOTM3FQIAERgSMjU4REZERkE1MTZDMUZGRkQ5AA==","message_status":"accepted"}]}

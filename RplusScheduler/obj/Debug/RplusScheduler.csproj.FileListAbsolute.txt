@@ -63,3 +63,28 @@ G:\Ram\Projects\Windows\RplusScheduler\RplusScheduler\bin\Debug\itextsharp.dll
 G:\Ram\Projects\Windows\RplusScheduler\RplusScheduler\obj\Debug\RplusScheduler.frmRunCommonScript.resources
 G:\Ram\Projects\Windows\RplusScheduler\RplusScheduler\obj\Debug\RplusScheduler.frmWinformMain.resources
 G:\Ram\Projects\Windows\RplusScheduler\RplusScheduler\obj\Debug\RplusScheduler.frmClientConfig.resources
+G:\Ram\Projects\git\Projects\RPlusCRM\Windows\RPlusScheduler\RplusScheduler\bin\Debug\RplusScheduler.exe.config
+G:\Ram\Projects\git\Projects\RPlusCRM\Windows\RPlusScheduler\RplusScheduler\bin\Debug\RplusScheduler.exe.manifest
+G:\Ram\Projects\git\Projects\RPlusCRM\Windows\RPlusScheduler\RplusScheduler\bin\Debug\RplusScheduler.application
+G:\Ram\Projects\git\Projects\RPlusCRM\Windows\RPlusScheduler\RplusScheduler\bin\Debug\RplusScheduler.exe
+G:\Ram\Projects\git\Projects\RPlusCRM\Windows\RPlusScheduler\RplusScheduler\bin\Debug\RplusScheduler.pdb
+G:\Ram\Projects\git\Projects\RPlusCRM\Windows\RPlusScheduler\RplusScheduler\bin\Debug\CPComponent V9.0.dll
+G:\Ram\Projects\git\Projects\RPlusCRM\Windows\RPlusScheduler\RplusScheduler\bin\Debug\Newtonsoft.Json.dll
+G:\Ram\Projects\git\Projects\RPlusCRM\Windows\RPlusScheduler\RplusScheduler\bin\Debug\OpenPop.dll
+G:\Ram\Projects\git\Projects\RPlusCRM\Windows\RPlusScheduler\RplusScheduler\bin\Debug\RplusKeyComponent.dll
+G:\Ram\Projects\git\Projects\RPlusCRM\Windows\RPlusScheduler\RplusScheduler\bin\Debug\RPlusKey.dll
+G:\Ram\Projects\git\Projects\RPlusCRM\Windows\RPlusScheduler\RplusScheduler\bin\Debug\BouncyCastle.Crypto.dll
+G:\Ram\Projects\git\Projects\RPlusCRM\Windows\RPlusScheduler\RplusScheduler\bin\Debug\itextsharp.dll
+G:\Ram\Projects\git\Projects\RPlusCRM\Windows\RPlusScheduler\RplusScheduler\bin\Debug\CPComponent V9.0.pdb
+G:\Ram\Projects\git\Projects\RPlusCRM\Windows\RPlusScheduler\RplusScheduler\bin\Debug\RPlusKey.pdb
+G:\Ram\Projects\git\Projects\RPlusCRM\Windows\RPlusScheduler\RplusScheduler\bin\Debug\RplusKeyComponent.pdb
+G:\Ram\Projects\git\Projects\RPlusCRM\Windows\RPlusScheduler\RplusScheduler\obj\Debug\ResolveAssemblyReference.cache
+G:\Ram\Projects\git\Projects\RPlusCRM\Windows\RPlusScheduler\RplusScheduler\obj\Debug\RplusScheduler.frmClientConfig.resources
+G:\Ram\Projects\git\Projects\RPlusCRM\Windows\RPlusScheduler\RplusScheduler\obj\Debug\RplusScheduler.frmRunCommonScript.resources
+G:\Ram\Projects\git\Projects\RPlusCRM\Windows\RPlusScheduler\RplusScheduler\obj\Debug\RplusScheduler.frmWinformMain.resources
+G:\Ram\Projects\git\Projects\RPlusCRM\Windows\RPlusScheduler\RplusScheduler\obj\Debug\RplusScheduler.Properties.Resources.resources
+G:\Ram\Projects\git\Projects\RPlusCRM\Windows\RPlusScheduler\RplusScheduler\obj\Debug\RplusScheduler.csproj.GenerateResource.Cache
+G:\Ram\Projects\git\Projects\RPlusCRM\Windows\RPlusScheduler\RplusScheduler\obj\Debug\RplusScheduler.exe.manifest
+G:\Ram\Projects\git\Projects\RPlusCRM\Windows\RPlusScheduler\RplusScheduler\obj\Debug\RplusScheduler.application
+G:\Ram\Projects\git\Projects\RPlusCRM\Windows\RPlusScheduler\RplusScheduler\obj\Debug\RplusScheduler.exe
+G:\Ram\Projects\git\Projects\RPlusCRM\Windows\RPlusScheduler\RplusScheduler\obj\Debug\RplusScheduler.pdb

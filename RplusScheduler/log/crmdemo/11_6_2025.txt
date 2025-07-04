@@ -1,0 +1,5 @@
+
+19:2:49 : Run sync company columns started for crmdemo
+19:2:50 : Run sync company columns completed for crmdemo
+19:5:11 : Run create table columns started for crmdemo
+19:5:13 : Run create table columns completed for crmdemo

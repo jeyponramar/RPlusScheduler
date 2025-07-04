@@ -1,0 +1,5 @@
+
+19:2:52 : Run sync company columns started for itechcomputersdemo
+19:2:52 : Run sync company columns completed for itechcomputersdemo
+19:5:25 : Run create table columns started for itechcomputersdemo
+19:5:27 : Run create table columns completed for itechcomputersdemo
