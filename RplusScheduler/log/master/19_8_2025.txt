@@ -1,0 +1,6 @@
+
+11:1:2 : ProcessAPI(TRADE_INDIA) started for master
+11:1:9 : TradeIndiaAPI Started
+11:1:36 : TradeIndia API Url: https://www.tradeindia.com/utils/my_inquiry.html?userid=1764716&profile_id=2203120&key=9831f38321165d3c22a4f7fb65bab1eb&from_date=2025-08-18 00:00:01&to_date=2025-08-19 11:01:22
+11:2:15 : TradeIndia API Url: https://www.tradeindia.com/utils/my_inquiry.html?userid=1764716&profile_id=2203120&key=9831f38321165d3c22a4f7fb65bab1eb&from_date=2025-08-18 00:00:01&to_date=2025-08-19 00:00:01
+11:3:58 : TradeIndiaAPI 20 data found

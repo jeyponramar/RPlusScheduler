@@ -64,14 +64,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CPComponent V9.0.dll" size="2029056">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CPComponent V9.0.dll" size="2103808">
       <assemblyIdentity name="CPComponent V9.0" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>/0ZKYMV/iR7DRnv18j/L8pDE0yE=</dsig:DigestValue>
+        <dsig:DigestValue>+XPVywFx5UTC2HiHaJiXhEHWcBY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -119,7 +119,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>DGYRoRriKiWdmOdTUsEqQtgf2wY=</dsig:DigestValue>
+        <dsig:DigestValue>MnE8BVQ+KNz6B/C+ZuYgmdVmxOA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -131,19 +131,19 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>mcTIMsItTCMEmqM+8tBCjVUdTU8=</dsig:DigestValue>
+        <dsig:DigestValue>QXN+jhgolbfdqnm5MnriJ5geo/8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="RplusScheduler.exe" size="83968">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="RplusScheduler.exe" size="84480">
       <assemblyIdentity name="RplusScheduler" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>rf/Nf4C1M12fuphRGCkv+0RDfRk=</dsig:DigestValue>
+        <dsig:DigestValue>tPY/P2qKf/OEDFYUXTyRM1wrpQw=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -162,7 +162,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>A4jZHVF+/TlOjZ+FPlNCaEfs7f0=</dsig:DigestValue>
+      <dsig:DigestValue>8/wCb06pesoCaMIQ5bZYFGNFzCw=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>

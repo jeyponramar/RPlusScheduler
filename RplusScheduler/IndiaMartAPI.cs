@@ -98,6 +98,10 @@ namespace RplusScheduler
 
                 lstdata = ConvertJSONToIndiaMartResponse(responseFromServer);
                 ErrorLog.WriteLog("IndiaMartAPI " + lstdata.Count + " data found");
+                if (lstdata.Count == 0)
+                {
+                    ErrorLog.WriteLog("IndiaMartAPI: No data found");
+                }
                 foreach (IndiaMartAPILead data in lstdata)
                 {
                     string queryId = "";
@@ -193,11 +197,13 @@ namespace RplusScheduler
                                 hstbl.Add("enquiryid", enquiryId);
                                 int detailId = DbTableWinform.Insert(hstbl, "enquirydetail", false);
                             }
+                            ErrorLog.WriteLog("Enquiry:ClientId:" + enquiryId + ";" + clientId);
                             hstbl = new Hashtable();
                             hstbl.Add("tasktypeid", 4);
                             hstbl.Add("description", message);
                             hstbl.Add("module", "enquiry");
                             hstbl.Add("mid", enquiryId);
+                            hstbl.Add("clientid", clientId);
                             hstbl.Add("subject", subject);
                             
                             hstbl.Add("code", enquiryNo);
